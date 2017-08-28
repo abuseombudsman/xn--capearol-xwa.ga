@@ -20,22 +20,18 @@ Released   : 20091004
 	
 	<!-- start page -->
 	<div id="page">
-		{% include sidebar1.html %}
+		
+		
 		<!-- start content -->
-		{% include content.html %}
+		{{ content }}
 		<!-- end content -->
-		<!-- start sidebars -->
-		{% include sidebar2.html %}
-		<!-- end sidebars -->
+		
+		
 		<div style="clear: both;">&nbsp;</div>
 	</div>
 	<!-- end page -->
 
 </div>
-<div id="footer">
-	<p class="copyright">&copy;&nbsp;&nbsp;2009 All Rights Reserved &nbsp;&bull;&nbsp; Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
-	<br>
-	<p>Este sitio está construído bajo la <a href="/license">licencia Creative Commons Attribution</a>.</p>
-</div>
+{% include footer.html %}
 </body>
 </html>
