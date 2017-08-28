@@ -46,7 +46,7 @@ author: xn--pearol-xwa.ga
 																				controls.attachPlayer(this);
 																				try {
 																					var p = this;
-																					this.loadPlayer("1bc1398f353c03e8f1904386d82c5cd9d3623363", {autoplay: true}, {width: 100%});
+																					this.loadPlayer("8d186949ae0cce9e6f01d4e33a43d490c69b7089", {autoplay: true}, {width: 100%});
 																				}
 																				catch(e) {
 																					console.log("init: " + e);
@@ -78,7 +78,7 @@ author: xn--pearol-xwa.ga
 																<script type="text/javascript">
 																	var plugin = document.getElementById("plugin");
 																	// load by the content id
-																	plugin.playlistLoadAsyncPlayer("1bc1398f353c03e8f1904386d82c5cd9d3623363");
+																	plugin.playlistLoadAsyncPlayer("8d186949ae0cce9e6f01d4e33a43d490c69b7089");
 																</script>
 															</div>
 														</div>
