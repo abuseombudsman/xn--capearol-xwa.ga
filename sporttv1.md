@@ -33,8 +33,8 @@ author: xn--pearol-xwa.ga
 													<td width="21" background="images/203233451.png"></td>
 												</tr>
 												<tr>
-													<td width="21" background="images/23121542.png" height="13"></td>
-													<td background="images/12345456.png" height="13"></td>
+													<td width="21" background="images/23121542.png" height="17"></td>
+													<td background="images/12345456.png" height="17"></td>
 													<td width="21" background="images/2656564.png" height="25"></td>
 												</tr>
 
