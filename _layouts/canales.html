@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Gestured
+Description: A three-column, fixed-width blog design.
+Version    : 1.0
+Released   : 20091004
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+{% include head.html %}
+<body>
+<div id="wrapper">
+<!-- start header -->
+{% include header.html %}
+<!-- end header -->
+	
+	<!-- start page -->
+	<div id="page">
+		{% include sidebar1.html %}
+		<!-- start canales -->
+		{% include canales.html %}
+		<!-- end canales -->
+		<!-- start sidebars -->
+		{% include sidebar2.html %}
+		<!-- end sidebars -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end page -->
+
+</div>
+{% include footer.html %}
+</body>
+</html>
