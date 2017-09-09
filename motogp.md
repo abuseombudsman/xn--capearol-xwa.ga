@@ -1,13 +1,13 @@
 ---
 layout: television-channel
-title: ARENA SPORT 1 HD
-description: Canal de deportes Yugoslavo
+title: MOTO GP HD
+description: Canal de deportes
 author: xn--pearol-xwa.ga
 ---
 <html>
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/arenasport1.html"><span itemprop="name">ARENA SPORT 1 HD</span></a> <span itemprop="description">Canal de Deportes Yugoslavo</span></li>
+							<li><a href="/motogp.html"><span itemprop="name">MOTO GP HD</span></a> <span itemprop="description">Canal de Deportes</span></li>
 							
 						</ul>
 					</div>
@@ -24,7 +24,9 @@ author: xn--pearol-xwa.ga
 												<tr>
 													<td width="21" background="images/21210212120.png"></td>
 													<td>
-														<iframe src="http://torrentstream.org/embed/9de4faeff15442c2a793fb618cf876d3cc47f72b" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+														<div id="aceplayer">
+															<iframe src="http://torrentstream.org/embed/edca97797b5749855c9c0d58e376233bc3938be3" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+														</div>
 														
 													<!-- End div id media -->
 								
@@ -41,7 +43,7 @@ author: xn--pearol-xwa.ga
 										</table>
 										<div itemscope itemtype="http://schema.org/TelevisionChannel">
 											<ul>
-												<li><a href="/arenasport1.html"><span itemprop="name">ARENA SPORT 1 HD</span></a> <span itemprop="description">Canal de Deportes Yugoslavo</span></li>
+												<li><a href="/motogp.html"><span itemprop="name">MOTO GP HD</span></a> <span itemprop="description">Canal de Deportes</span></li>
 							
 											</ul>
 										</div>

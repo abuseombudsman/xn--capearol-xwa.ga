@@ -11,6 +11,7 @@ author: xn--pearol-xwa.ga
 							
 						</ul>
 					</div>
+					<p><span style="font:2.0em;font-weight:900;color:red;margin-left:25px;">ADVERTENCIA!!! PARA QUE EL PLAYER FUNCIONE ES NECESARIO INTERNET EXPLORER Y EL ACE PLAYER INSTALADO EN SU COMPUTADORA!!!</span></p>
 									<div>
 										<table>
 											<tbody>
