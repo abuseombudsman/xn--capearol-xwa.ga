@@ -1,13 +1,13 @@
 ---
 layout: television-channel
-title: SPORT TV 1 HD
-description: Canal de deportes de Portugal
+title: FUTBOL ARGENTINO HD
+description: Canal de Deportes
 author: xn--pearol-xwa.ga
 ---
 <html>
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/sporttv1.html"><span itemprop="name">SPORT TV 1 HD</span></a> <span itemprop="description">Canal de Deportes de Portugal</span></li>
+							<li><a href="/futbolargentino.html"><span itemprop="name">FUTBOL ARGENTINO HD</span></a> <span itemprop="description">Canal de Deportes</span></li>
 							
 						</ul>
 					</div>
@@ -24,9 +24,7 @@ author: xn--pearol-xwa.ga
 												<tr>
 													<td width="21" background="images/21210212120.png"></td>
 													<td>
-														<div id="aceplayer">
-															<iframe src="http://torrentstream.org/embed/9caf2841dc976a3f9a3cfd3160382a9f4d68baf7" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="autoplay:true;" frameborder="0"></iframe>
-														</div>
+														<iframe src="http://torrentstream.org/embed/a6a7ad56b4ef0c6e3847a0e823ab518b550ade11" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
 														
 													<!-- End div id media -->
 								
@@ -43,7 +41,7 @@ author: xn--pearol-xwa.ga
 										</table>
 										<div itemscope itemtype="http://schema.org/TelevisionChannel">
 											<ul>
-												<li><a href="/sporttv1.html"><span itemprop="name">SPORT TV 1 HD</span></a> <span itemprop="description">Canal de Deportes de Portugal</span></li>
+												<li><a href="/futbolargentino.html"><span itemprop="name">FUTBOL ARGENTINO HD</span></a> <span itemprop="description">Canal de Deportes</span></li>
 							
 											</ul>
 										</div>
