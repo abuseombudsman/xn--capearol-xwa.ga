@@ -64,15 +64,16 @@ img.right {
 #header {
 	width: 960px;
 	margin: 0 auto;
+	
 }
 
 /* Header */
 
 #logo {
 	width: 960px;
-	height: 191px;
+	height: 191px;/*191px;*/
 	margin: 0 auto;
-	background: url(images/img02.jpg) no-repeat left top;
+	background: url(images/img02.jpg) no-repeat left bottom;
 }
 
 #logo h1, #logo p {
