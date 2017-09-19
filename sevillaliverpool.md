@@ -25,7 +25,7 @@ author: xn--pearol-xwa.ga
 													<td width="21" background="images/21210212120.png"></td>
 													<td>
 														<div id="aceplayer">
-															<iframe src="http://torrentstream.org/embed/fecdc30d2a1f8b8d875f70c92902e3e247c7c87c" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+															<iframe src="http://freelive365.com/live_player.php?id=51" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
 														</div>
 														
 													<!-- End div id media -->

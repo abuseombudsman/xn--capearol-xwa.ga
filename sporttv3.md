@@ -7,7 +7,7 @@ author: xn--pearol-xwa.ga
 <html>
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/sporttv1.html"><span itemprop="name">SPORT TV 3 HD</span></a> <span itemprop="description">Canal de Deportes de Portugal</span></li>
+							<li><a href="/sporttv3.html"><span itemprop="name">SPORT TV 3 HD</span></a> <span itemprop="description">Canal de Deportes de Portugal</span></li>
 							
 						</ul>
 					</div>
@@ -25,7 +25,7 @@ author: xn--pearol-xwa.ga
 													<td width="21" background="images/21210212120.png"></td>
 													<td>
 														<div id="aceplayer">
-															<iframe src="http://torrentstream.org/embed/cf72f0fa0cee438cca43f2ea8299d04d1bf4c9d5" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+															<iframe src="http://torrentstream.org/embed/504a1201c0b84f8167af8c05be8e6e660ed5feaf" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
 														</div>
 														
 													<!-- End div id media -->
@@ -43,7 +43,7 @@ author: xn--pearol-xwa.ga
 										</table>
 										<div itemscope itemtype="http://schema.org/TelevisionChannel">
 											<ul>
-												<li><a href="/sporttv1.html"><span itemprop="name">SPORT TV 3 HD</span></a> <span itemprop="description">Canal de Deportes de Portugal</span></li>
+												<li><a href="/sporttv3.html"><span itemprop="name">SPORT TV 3 HD</span></a> <span itemprop="description">Canal de Deportes de Portugal</span></li>
 							
 											</ul>
 										</div>
