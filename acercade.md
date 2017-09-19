@@ -6,8 +6,9 @@ keywords: "Club Atlético Peñarol, Palacio Cr. Gastón Güelfi, Montevideo, los
 author: xn--pearol-xwa.ga
 ---
 <html>
+<div id="content">
 	<div class="post">
-		<h1 class="title">Club Atlético Peñarol @ Peñarol.ga</h1><br>
+		<h1 class="title">Club Atlético Peñarol @ Peñarol.ga</h1>
 		<div class="entry">
 			<div itemscope itemtype="http://schema.org/SportsTeam">
 				<div itemprop="description">
@@ -23,7 +24,7 @@ author: xn--pearol-xwa.ga
 					</span>
 					juega el Torneo Uruguayo de Primera División y junto al Club Nacional de Fútbol
 					su acérrimo rival en Uruguay, nunca han descendido a la Segunda División del Fútbol Uruguayo.
-					Su sede se encuentra en la calle Magallanes 1721, Mdeo. URUGUAY</p></code>
+					Su sede se encuentra allí, en la calle Magallanes 1721, Mdeo. URUGUAY</p></code>
 					<center>
 						<span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span>
 					</center>
@@ -31,5 +32,17 @@ author: xn--pearol-xwa.ga
 			</div>
 		</div>
 	</div>
-</html>
+	<div class="post">
+		<h1 class="title"></h1>
+		<div class="entry">
+			<div itemscope itemtype="http://schema.org/SportsTeam">
+				<p><code><span itemprope="name">Club Atlético Centenario Uruguaio</span>
+				<div itemprop="description">
+					<span itemprop="Resulta de la fusión de los clubes Centenario e Uruguayo">Club de fútbol uruguayo que actualmente juega la Liga Isabelina</span>
+				</div></code></p>
+			</div>
+		</div>
+	</div>
+<div>
+
 
