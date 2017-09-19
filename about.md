@@ -15,7 +15,7 @@ author: xn--pearol-xwa.ga
       <span itemprop="addressRegion">Palacio Cr. Gastón Güelfi</span>, 
       <span itemprop="addressLocality">Montevideo</span>. 
     </span>
-    Fundado en <span itemprop="foundingDate">1891</span> por
+    Fundado en <span itemprop="foundingDate">el 28 de Setiembre, 1891</span> por
     <span itemprop="founder" itemscope itemtype="http://schema.org/Organization">
       <span itemprop="name">los obreros de AFE</span>,
     </span>
