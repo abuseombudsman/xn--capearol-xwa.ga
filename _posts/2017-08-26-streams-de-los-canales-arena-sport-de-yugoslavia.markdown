@@ -1,7 +1,7 @@
 ---
 layout: entrada
 title:  "Chances"
-date:   2017-08-26          +0100
+date:   2017-10-02 19:40    +01:00
 categories: eliminatorias
 description: "Eliminatorias sudamericanas: Venezuela - Uruguay"
 author: abuseombudsman
