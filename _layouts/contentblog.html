@@ -1,0 +1,26 @@
+			<div class="content">
+				<h2>Entradas</h2>
+				
+				{{ content }}
+				
+				
+					<ul>
+						{% for post in site.posts %}
+						<div class="post">
+							
+								<li>
+									<h2 class="title">
+										<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+									</h2>
+									{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+									<p class="byline">Postiado el <span class="post-meta">{{ post.date | date: date_format }}</span> by <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a></p>
+									<div class="entry">
+										<p><span>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</span></p>
+									</div>
+								</li>
+							
+						</div>
+						{% endfor %}
+					</ul>
+					
+			</div>

@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Serás eterno como el tiempo...
+title: sitio del Club Atlético Peñarol
 email: abuse.ombudsman@gmail.com
-description: "Página destinada al Club Atlético Peñarol de Montevideo, Uruguay
-y su fauna y su flora en la diaria para sobrevivir un día más. Pensamos que
+description: "Club Atlético Peñarol: club de fútbol uruguayo. Pensamos que
 la democratización de la Institución pasa por que la Popular tome su gobierno."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://xn--pearol-xwa.ga" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  abuseombudsman
 

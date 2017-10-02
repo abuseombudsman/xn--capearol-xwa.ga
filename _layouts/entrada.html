@@ -1,0 +1,29 @@
+---
+layout: blogpost
+---
+<div id="content">
+<div class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  
+    <h2 class="title" itemprop="name headline"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    <p class="byline">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}
+	</p>
+ 
+
+	<div class="entry" itemprop="articleBody">
+		{{ content }}
+		<a href="#"><div id="el vaticinio" style="background-color:#e4efe4;"><tr><td><span><a href="#"><img src="" width="85" style="margin-left:15px;margin-bottom:-7px;"></a></span></td><td><span><a href="#"><img src="" width="30" style="float:right;margin-right:15px;margin-bottom:-7px;"></a></span></td></tr></div></a>
+	</div>
+
+	{% if site.disqus.shortname %}
+		{% include disqus_comments.html %}
+	{% endif %}
+</div>
+</div>
