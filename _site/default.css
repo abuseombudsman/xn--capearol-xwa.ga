@@ -61,6 +61,12 @@ img.right {
 	background-color:#63551e;
 }
 
+img.image {
+    display: block;
+    width: 100%;
+    border-radius: 6px;
+}
+
 #header {
 	width: 950px;
 	margin: 0 auto;
