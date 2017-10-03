@@ -1,13 +1,13 @@
 ---
 layout: television-channel
-title: FUTBOL ARGENTINO HD
-description: Canal de Deportes
-author: xn--pearol-xwa.ga
+title: TyC SPORTS HD 
+description: Canal de Deportes Argentino
+author: abuseombudsman
 ---
 <html>
-					<div itemscope itemtype="http://schema.org/TelevisionChannel">
+					<div itemscope="" itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/futbolargentino.html"><span itemprop="name">FUTBOL ARGENTINO HD</span></a> <span itemprop="description">Canal de Deportes</span></li>
+							<li><h2><a href="/futbolargentino.html"><span itemprop="name">TyC SPORTS HD</span></a> <span itemprop="description">Canal de Deportes Argentino</span></h2></li>
 							
 						</ul>
 					</div>
@@ -39,11 +39,5 @@ author: xn--pearol-xwa.ga
 
 											</tbody>
 										</table>
-										<div itemscope itemtype="http://schema.org/TelevisionChannel">
-											<ul>
-												<li><a href="/futbolargentino.html"><span itemprop="name">FUTBOL ARGENTINO HD</span></a> <span itemprop="description">Canal de Deportes</span></li>
-							
-											</ul>
-										</div>
 									</div>
 </html>
