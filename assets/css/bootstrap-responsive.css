@@ -130,7 +130,7 @@
   .container,
   .navbar-static-top .container,
   .navbar-fixed-bottom .container {
-    width: 940px;/*1170px;*/
+    width: 740px;/*1170px;*/
   }
   
   .navbar-fixed-top .container {

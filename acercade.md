@@ -6,7 +6,7 @@ keywords: "Club Atlético Peñarol, Palacio Cr. Gastón Güelfi, Montevideo, los
 author: xn--pearol-xwa.ga
 ---
 <html>
-<div id="content">
+<div id="content"><div class="container">
 	<div class="post">
 		<h1 class="title">Sitio del Club Atlético Peñarol</h1>
 		<div class="entry">
@@ -26,6 +26,15 @@ author: xn--pearol-xwa.ga
 						<span itemprop="addressRegion"> calle Magallanes 1721</span>,
 						<span itemprop="addressLocality">Montevideo URUGUAY</span>.
 					</span></p>
+					<p>Nosotros no somos "oficialmente" representantes de Peñarol pero somos representantes de Peñarol
+					en realidad. Nuestro sitio contiene noticias del mundo de Peñarol y de la selección uruguaya de 
+					fútbol. Además contiene material pedagógico y recetas caceras de cómo publicar buenos artículos,
+					bien presentados y cómo obtener buena audiencia en la web.</p>
+					<p>Como ven en Peñarol impera un ambiente de buena solidaridad y positivismo. Solidaridad es la base
+					de la sociedad, así es y positivismo es estar convencido de que hay que evolucionar como sinónimo de mejorar día
+					a día osea dar cosas positivas y recibir cosas positivas.</p>
+					<p>Juntar a todos los supporters de Peñarol sería imposible sin la existencia de Internet, ponete en contacto a través de nuestra
+					página de contacto, nosotros estamos por largar dos peñas: en Gotemburgo y Malmoe en Suecia.</p>
 					<center>
 						<span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span>
 					</center><br>
@@ -35,6 +44,6 @@ author: xn--pearol-xwa.ga
 		</div>
 	</div>
 	
-<div>
+</div></div>
 
 
