@@ -129,10 +129,14 @@
   }
   .container,
   .navbar-static-top .container,
-  .navbar-fixed-top .container,
   .navbar-fixed-bottom .container {
-    width: 1170px;
+    width: 940px;/*1170px;*/
   }
+  
+  .navbar-fixed-top .container {
+	width: 1170px;
+  }
+  
   .span12 {
     width: 1170px;
   }

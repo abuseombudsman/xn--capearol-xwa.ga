@@ -11,7 +11,11 @@ author: abuseombudsman
 							
 						</ul>
 					</div>
-					<p><span style="font:2.0em;font-weight:900;color:red;margin-left:25px;">ADVERTENCIA!!! PARA QUE EL PLAYER FUNCIONE ES NECESARIO INTERNET EXPLORER Y EL ACE PLAYER INSTALADO EN SU COMPUTADORA!!!</span></p>
+					<div class="alert alert-block">
+						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						<h4>Advertencia!</h4>
+						Para poder ver los strerms es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+					</div>
 									<div>
 										<table>
 											<tbody>
