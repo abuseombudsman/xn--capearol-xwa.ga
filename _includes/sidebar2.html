@@ -1,7 +1,7 @@
 	<head>
 		<meta name="keywords" content="Club Atlético Peñarol, Palacio Cr. Gastón Güelfi, los obreros del AFE, Torneo Uruguayo de Primera División.">
 	</head>
-		<div id="sidebar2" class="sidebar">
+		<div id="sidebar2" class="sidebar span4">
 			<ul> <!--class="border" -->
 				<li>
 					<form id="searchform" method="get" action="#">
@@ -13,7 +13,7 @@
 				</li>
 				<li>
 					<h2>Tags</h2>
-					<p class="tag"><span>{{ keywords }} </span></p></li>
+					<p class="tag"><span>{{page.keywords | capitalize | join: ', '}} </span></p></li>
 				<li>
 					<h2>Última Actualización</h2>
 					<div id="calendar_wrap">

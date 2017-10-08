@@ -1,17 +1,22 @@
 ---
 layout: television-channel
 title: FUTBOL UA 2 HD
-description: Canal de Deportes Ruso
+description: Canal de Fútbol Ruso
 author: xn--pearol-xwa.ga
 ---
 <html>
+				<div class="container">
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/futbolua2.html"><span itemprop="name">FUTBOL UA 2 HD</span></a> <span itemprop="description">Canal de Deportes Ruso</span></li>
+							<li><a href="/futbolua2.html"><span itemprop="name">FUTBOL UA 2 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
 							
 						</ul>
 					</div>
-					<p><span style="font:2.0em;font-weight:900;color:red;margin-left:25px;">ADVERTENCIA!!! PARA QUE EL PLAYER FUNCIONE ES NECESARIO INTERNET EXPLORER Y EL ACE PLAYER INSTALADO EN SU COMPUTADORA!!!</span></p>
+					<div class="alert alert-block">
+						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						<h4>Advertencia!</h4>
+						Para poder ver los streams es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+					</div>
 									<div>
 										<table>
 											<tbody>
@@ -41,9 +46,10 @@ author: xn--pearol-xwa.ga
 										</table>
 										<div itemscope itemtype="http://schema.org/TelevisionChannel">
 											<ul>
-												<li><a href="/futbolua2.html"><span itemprop="name">FUTBOL UA 2 HD</span></a> <span itemprop="description">Canal de Deportes Ruso</span></li>
+												<li><a href="/futbolua2.html"><span itemprop="name">FUTBOL UA 2 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
 							
 											</ul>
 										</div>
 									</div>
+				</div>
 </html>

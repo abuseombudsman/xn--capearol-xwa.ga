@@ -1,6 +1,6 @@
 ---
 layout: blog1
-title: "sitio del Club Atlético Peñarol"
+title: "Sitio del Club Atlético Peñarol"
 description: "Club Atlético Peñarol: Club de fútbol uruguayo..."
 keywords: "Club Atlético Peñarol, Palacio Cr. Gastón Güelfi, Montevideo, los obreros de AFE, Torneo Uruguayo de Primera División."
 author: xn--pearol-xwa.ga

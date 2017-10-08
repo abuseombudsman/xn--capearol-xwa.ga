@@ -1,17 +1,21 @@
 ---
 layout: television-channel
-title: ARENA SPORT 1 HD
-description: Canal de deportes Yugoslavo
+title: MATCH! FUTBOL 3 HD
+description: Canal de Fútbol Ruso
 author: xn--pearol-xwa.ga
 ---
 <html>
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/arenasport1.html"><span itemprop="name">ARENA SPORT 1 HD</span></a> <span itemprop="description">Canal de Deportes Yugoslavo</span></li>
+							<li><a href="/matchfutbol3.html"><span itemprop="name">MATCH! FUTBOL 3 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
 							
 						</ul>
 					</div>
-					<p><span style="font:2.0em;font-weight:900;color:red;margin-left:25px;">ADVERTENCIA!!! PARA QUE EL PLAYER FUNCIONE ES NECESARIO INTERNET EXPLORER Y EL ACE PLAYER INSTALADO EN SU COMPUTADORA!!!</span></p>
+					<div class="alert alert-block">
+						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						<h4>Advertencia!</h4>
+						Para poder ver los streams es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+					</div>
 									<div>
 										<table>
 											<tbody>
@@ -24,7 +28,7 @@ author: xn--pearol-xwa.ga
 												<tr>
 													<td width="21" background="images/21210212120.png"></td>
 													<td>
-														<iframe src="http://torrentstream.org/embed/9de4faeff15442c2a793fb618cf876d3cc47f72b" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+														<iframe src="http://torrentstream.org/embed/95aaf6bfa136a8103acae5cb952db66062107ac2" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
 														
 													<!-- End div id media -->
 								
@@ -41,7 +45,7 @@ author: xn--pearol-xwa.ga
 										</table>
 										<div itemscope itemtype="http://schema.org/TelevisionChannel">
 											<ul>
-												<li><a href="/arenasport1.html"><span itemprop="name">ARENA SPORT 1 HD</span></a> <span itemprop="description">Canal de Deportes Yugoslavo</span></li>
+												<li><a href="/matchfutbol3.html"><span itemprop="name">MATCH! FUTBOL 3 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
 							
 											</ul>
 										</div>
