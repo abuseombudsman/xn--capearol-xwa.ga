@@ -14,7 +14,7 @@ author: abuseombudsman
 					<div class="alert alert-block">
 						<button type="button" class="close" data-dismiss="alert">&times;</button>
 						<h4>Advertencia!</h4>
-						Para poder ver los strerms es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+						Para poder ver los streams es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
 					</div>
 									<div>
 										<table>
