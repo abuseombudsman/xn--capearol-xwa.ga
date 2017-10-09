@@ -1,5 +1,5 @@
 ---
-layout: cavani
+layout: cavani2
 title: "Eliminatorias sudamericanas, última fecha: Uruguay Bolivia"
 description: "Eliminatorias sudamericanas al mundial de Rusia 2018, última fecha."
 keywords: "partidos, eliminatorias, eliminatorias sudamericanas, Uruguay, clasificación directa, clasificación."
