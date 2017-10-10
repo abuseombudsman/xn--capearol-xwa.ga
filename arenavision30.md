@@ -1,21 +1,18 @@
 ---
-layout: television-channel
-title: Arenavisión 30
-description: Canal 30 de Arenavisión
-author: abuseombudsman
+layout: arenavision30
+title: "Eliminatorias en vivo por internet a través de Arenavision"
+description: "Arenavisión 30 Canal de Deportes"
+author: xn--pearol-xwa.ga
 ---
 <html>
-					<div itemscope itemtype="http://schema.org/TelevisionChannel">
-						<ul>
-							<li><h2><a href="/arenavision30.html"><span itemprop="name">Arenavisión 30</span></a> <span itemprop="description">Canal de Deportes</span></h2></li>
-							
-						</ul>
-					</div>
+					<h2>Eliminatorias en vivo por internet a través de Arenavision</h2><br><br>
+					<h2>Eliminatorias sudamericanas última fecha, mundial de Rusia 2018</h2>
 					<div class="alert alert-block">
 						<button type="button" class="close" data-dismiss="alert">&times;</button>
 						<h4>Advertencia!</h4>
-						Para poder ver los strerms es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+						Para poder ver los streams es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
 					</div>
+					<h2>Arenavision 30</h2>
 									<div>
 										<table>
 											<tbody>
@@ -43,5 +40,6 @@ author: abuseombudsman
 
 											</tbody>
 										</table>
+										
 									</div>
 </html>

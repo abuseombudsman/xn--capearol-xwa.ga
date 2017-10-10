@@ -7,11 +7,15 @@ author: xn--pearol-xwa.ga
 <html>
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/matchtv.html"><span itemprop="name">MATCH! TV HD</span></a> <span itemprop="description">Canal de Deportes Ruso</span></li>
+							<li><h2><a href="/matchtv.html"><span itemprop="name">MATCH! TV HD</span></a> <span itemprop="description">Canal de <span itemprop="genre">Deportes</span> Ruso</span></h2></li>
 							
 						</ul>
 					</div>
-					<p><span style="font:2.0em;font-weight:900;color:red;margin-left:25px;">ADVERTENCIA!!! PARA QUE EL PLAYER FUNCIONE ES NECESARIO INTERNET EXPLORER Y EL ACE PLAYER INSTALADO EN SU COMPUTADORA!!!</span></p>
+					<div class="alert alert-block">
+						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						<h4>Advertencia!</h4>
+						Para poder ver los streams es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+					</div>
 									<div>
 										<table>
 											<tbody>
@@ -24,7 +28,7 @@ author: xn--pearol-xwa.ga
 												<tr>
 													<td width="21" background="images/21210212120.png"></td>
 													<td>
-														<iframe src="http://torrentstream.org/embed/1bc1398f353c03e8f1904386d82c5cd9d3623363" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
+														<iframe src="http://torrentstream.org/embed/d61a4a7548aa33f1f94194c00d16098347361fb1" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
 														
 													<!-- End div id media -->
 								

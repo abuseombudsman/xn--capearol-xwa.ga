@@ -333,7 +333,7 @@ img.image {
 .sidebar li li {
 	margin: 0px 15px;
 	padding: 8px 0px;
-	border-bottom: 1px #314A4F dashed;
+	/*border-bottom: 1px #314A4F dashed;*/
 	background: none;
 }
 

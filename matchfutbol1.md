@@ -7,7 +7,7 @@ author: xn--pearol-xwa.ga
 <html>
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/matchfutbol1.html"><span itemprop="name">MATCH! FUTBOL 1 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
+							<li><h2><a href="/matchfutbol1.html"><span itemprop="name">MATCH! FUTBOL 1 HD</span></a> <span itemprop="description">Canal de <span itemprop="genre">Fútbol</span> Ruso</span></h2></li>
 							
 						</ul>
 					</div>
@@ -43,11 +43,6 @@ author: xn--pearol-xwa.ga
 
 											</tbody>
 										</table>
-										<div itemscope itemtype="http://schema.org/TelevisionChannel">
-											<ul>
-												<li><a href="/matchfutbol1.html"><span itemprop="name">MATCH! FUTBOL 1 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
-							
-											</ul>
-										</div>
+										
 									</div>
 </html>

@@ -1,21 +1,19 @@
 ---
 layout: television-channel
-title: Arenavisión 19 - 20
-description: Canal 19 - 20 de Arenavisión
-author: abuseombudsman
+title: "Ecuador-Argentina en vivo por internet a través de Arenavision"
+description: "Arenavisión 19-20 Canal de Deportes"
+author: xn--pearol-xwa.ga
 ---
 <html>
-					<div itemscope itemtype="http://schema.org/TelevisionChannel">
-						<ul>
-							<li><h2><a href="/arenavision19-20.html"><span itemprop="name">Arenavisión 19 - 20</span></a> <span itemprop="description">Canal de Deportes</span></h2></li>
-							
-						</ul>
-					</div>
+					<h2>Ecuador-Argentina en vivo por internet a través de Arenavision</h2>
+					<h2>Estadio Olímpico Atahualpa Quito Ecuador. Hora de comienzo:01:30 CET</h2><br><br>
+					<h2>Eliminatorias sudamericanas última fecha, mundial de Rusia 2018</h2>
 					<div class="alert alert-block">
 						<button type="button" class="close" data-dismiss="alert">&times;</button>
 						<h4>Advertencia!</h4>
-						Para poder ver los strerms es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+						Para poder ver los streams es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
 					</div>
+					<h2>Arenavision 19-20</h2>
 									<div>
 										<table>
 											<tbody>
@@ -43,5 +41,6 @@ author: abuseombudsman
 
 											</tbody>
 										</table>
+										
 									</div>
 </html>

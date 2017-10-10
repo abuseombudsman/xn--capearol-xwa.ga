@@ -8,7 +8,7 @@ author: xn--pearol-xwa.ga
 				<div class="container">
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><a href="/futbolua2.html"><span itemprop="name">FUTBOL UA 2 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
+							<li><h2><a href="/futbolua2.html"><span itemprop="name">FUTBOL UA 2 HD</span></a> <span itemprop="description">Canal de <span itemprop="genre">Fútbol</span> Ruso</span></h2></li>
 							
 						</ul>
 					</div>
@@ -44,12 +44,7 @@ author: xn--pearol-xwa.ga
 
 											</tbody>
 										</table>
-										<div itemscope itemtype="http://schema.org/TelevisionChannel">
-											<ul>
-												<li><a href="/futbolua2.html"><span itemprop="name">FUTBOL UA 2 HD</span></a> <span itemprop="description">Canal de Fútbol Ruso</span></li>
-							
-											</ul>
-										</div>
+										
 									</div>
 				</div>
 </html>

@@ -1,21 +1,19 @@
 ---
-layout: television-channel
-title: Arenavisión 23 - 24
-description: Canal 23 - 24 de Arenavisión
-author: abuseombudsman
+layout: arenavision23-24
+title: "Perú-Colombia en vivo por internet a través de Arenavision"
+description: "Arenavisión 23-24 Canal de Deportes"
+author: xn--pearol-xwa.ga
 ---
 <html>
-					<div itemscope itemtype="http://schema.org/TelevisionChannel">
-						<ul>
-							<li><h2><a href="/arenavision23-24.html"><span itemprop="name">Arenavisión 23 - 24</span></a> <span itemprop="description">Canal de Deportes</span></h2></li>
-							
-						</ul>
-					</div>
+					<h2>Perú-Colombia en vivo por internet a través de Arenavision</h2>
+					<h2>Estadio Nacional Lima Perú. Hora de comienzo 01:30 CET.</h2><br><br>
+					<h2>Eliminatorias sudamericanas última fecha, mundial de Rusia 2018</h2>
 					<div class="alert alert-block">
 						<button type="button" class="close" data-dismiss="alert">&times;</button>
 						<h4>Advertencia!</h4>
-						Para poder ver los strerms es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
+						Para poder ver los streams es necesario Internet Explorer y el Ace Player instalado que lo podés bajar de su sitio <a href="http://acestream.org">acestream.org</a>.
 					</div>
+					<h2>Arenavision 23-24</h2>
 									<div>
 										<table>
 											<tbody>
@@ -43,5 +41,6 @@ author: abuseombudsman
 
 											</tbody>
 										</table>
+										
 									</div>
 </html>
