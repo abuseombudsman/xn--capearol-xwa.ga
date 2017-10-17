@@ -2,21 +2,15 @@
 			<ul> <!--class="border"-->
 				<li>
 					<h2>Últimas Entradas</h2>
-					<ul>
-						<li><a href="{{ site.url }}/ver.html">ver streams en vivo del...</a></li>
-						<li><a href="{{ site.url }}/uruguay.html">uruguay - argentina en vivo...</a></li>
-						<li><a href="{{ site.url }}/canales.html">canales, extra con super...</a></li>
-						<li><a href="{{ site.url }}/mas.html">mas streams...</a></li>
-						<li><a href="{{ site.url }}/streams.html">streams eliminatorias sudamericanas...</a></li>
-						<!--<li><a href="#">Proin gravida orci porttitor</a></li>
-						<li><a href="#">Aliquam libero</a></li>
-						<li><a href="#">Consectetuer adipiscing elit</a></li>
-						<li><a href="#">Metus aliquam pellentesque</a></li>
-						<li><a href="#">Suspendisse iaculis mauris</a></li>
-						<li><a href="#">Proin gravida orci porttitor</a></li>-->
-					</ul>
+					<div class="dropdown clearfix">
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" style="display: block; position: relative; margin-bottom: 5px; *width: 180px;">
+							{% for post in site.posts limit:5 %}
+								<li><a tabindex="-1" href="{{ post.url }}"><span style="color:#dcb208;width:180;">{{ post.title }}</span></a></li>
+							{% endfor %}
+						</ul>
+					</div>
 				</li>
-				<li>
+				<hr class="bs-docs-separator">
 					
 				<li>
 					<h2>Streams de deportes</h2>
@@ -30,6 +24,8 @@
 						</ul>
 					<div>
 				</li>
+				
+				<hr class="bs-docs-separator">
 		
 				<li>
 					<h2>Twitter</h2>
@@ -55,6 +51,8 @@
 						</center>
 					</ul>
 				</li>
+				<hr class="bs-docs-separator">
+				
 				<li>
 					<h2>Últimos Comentarios</h2>
 					<ul>
@@ -64,6 +62,7 @@
 						<li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#">Suspendisse iaculis mauris</a></li>
 					</ul>
 				</li>
+				<hr class="bs-docs-separator">
 				<!--<li>
 					<h2>Categories</h2>
 					<ul>

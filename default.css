@@ -65,7 +65,7 @@ img.image {
 }
 
 #header {
-	width: 1354px;
+	width: 1404px;
 	margin: 0 auto;
 	
 }
@@ -73,7 +73,7 @@ img.image {
 /* Header */
 
 #logo {
-	width: 1354px;/*950px;*/
+	width: 1404px;/*950px;*/
 	height: 361px;/*191px;*/
 	margin: 0 auto;
 	background: url(images/nota.jpg) no-repeat left bottom;
@@ -164,7 +164,7 @@ img.image {
 /* Page */
 
 #page {
-	width: 1354px;/*960*/
+	width: 1404px;/*960*/
 	margin: 0 auto;
 	padding: 0px;
 	background: url(images/img0x.jpg) no-repeat left top;
@@ -257,7 +257,7 @@ img.image {
 
 #sidebar1 {
 	float: left;
-	width: 230px;
+	width: 280px;
 	border: 2px white;
 	border-top: 0px;
 	margin-right:20px;

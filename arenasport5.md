@@ -7,7 +7,7 @@ author: abuseombudsman
 <html>
 					<div itemscope itemtype="http://schema.org/TelevisionChannel">
 						<ul>
-							<li><h2><a href="/arenasport5.html"><span itemprop="name">ARENA SPORT HD 5</span></a> <span itemprop="description">Canal de Deportes Yugoslavo</span></h2></li>
+							<li><h2><a href="/arenasport5.html"><span itemprop="name" style="color:white;background-color:blue;">ARENA SPORT HD 5</span></a> <span itemprop="description" style="color:blue;background-color:white;">Canal de Deportes Yugoslavo</span></h2></li>
 							
 						</ul>
 					</div>
