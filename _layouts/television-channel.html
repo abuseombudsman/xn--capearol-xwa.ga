@@ -21,16 +21,20 @@ Released   : 20091004
 	
 	<!-- start page -->
 	<div id="page">
-	<div class="container"
+	
 		
 		
+			{% include sidebar-televisionchannels.html %}
 		<!-- start content -->
-		{{ content }}
+			
+			<div class="container">
+				{{ content }}
+		
 		<!-- end content -->
 		
+				<div style="clear: both;">&nbsp;</div>
+			</div>
 		
-		<div style="clear: both;">&nbsp;</div>
-	</div>
 	</div>
 	<!-- end page -->
 

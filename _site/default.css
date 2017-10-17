@@ -270,6 +270,14 @@ img.image {
 	margin-right:30px;
 }
 
+#sidebar-televisionchannels {
+	float: left;
+	width: 230px;
+	border: 2px white;
+	border-top: 0px;
+	margin-right:20px;
+}
+
 .border { 
 	border-width: 5px; 
 	border-color: black; 
