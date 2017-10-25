@@ -14,7 +14,7 @@
 									</h2>
 									{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
 									<p class="byline">Postiado el <span class="post-meta">{{ post.date | date: date_format }}</span> by <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a></p>
-									<div class="entry">
+									<div class="container">
 										<p><span>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</span></p>
 									</div>
 								</li>

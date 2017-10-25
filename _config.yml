@@ -19,7 +19,7 @@ description: "Club Atlético Peñarol: club de fútbol uruguayo. Pensamos que
 la democratización de la Institución pasa por que la Popular tome su gobierno."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://peñarol.ga" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: AbuseOmbudsman
 github_username:  abuseombudsman
 
 # Build settings
