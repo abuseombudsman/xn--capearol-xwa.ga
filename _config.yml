@@ -13,22 +13,45 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: sitio del Club Atlético Peñarol
-email: abuse.ombudsman@gmail.com
-description: "Club Atlético Peñarol: club de fútbol uruguayo. Pensamos que
-la democratización de la Institución pasa por que la Popular tome su gobierno."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://peñarol.ga" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AbuseOmbudsman
-github_username:  abuseombudsman
+
+# Dependencies
+markdown:           kramdown
+# highlighter:        rouge
+
+# kramdown:
+#    auto_ids:       true
+    
+# Permalinks
+# permalink:          pretty
+
+# Server
+# source:             "."
+# destination:        ./_site
+port:               9001
+baseurl:            "" # the subpath of your site, e.g. /blog
+url:                "http://xn--pearol-xwa.ga" # the base hostname & protocol for your site, e.g. http://example.com
+# encoding:           UTF-8
+
+
+# Social
+title:              Sitio No Oficial del Club Atlético Peñarol
+email:              abuse.ombudsman@gmail.com
+description:        "Club Atlético Peñarol: club de fútbol uruguayo. Pensamos que
+                    la democratización de la Institución pasa por que la Popular 
+                    tome su gobierno."
+twitter_username:   AbuseOmbudsman
+github_username:    abuseombudsman
 
 # Build settings
-markdown: kramdown
-theme: minima
+
+theme:              minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  
 
+repo:               "https://github.com/twbs/bootstrap"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

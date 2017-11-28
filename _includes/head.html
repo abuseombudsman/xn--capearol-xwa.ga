@@ -1,5 +1,5 @@
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" lang="es" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" lang="es_UY" />
 <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta name="keywords" content="{{ page.keywords }}">
@@ -15,8 +15,11 @@
   <link href="{{ site.url }}/assets/css/docs.css" rel="stylesheet">
   <link href="{{ site.url }}/assets/js/google-code-prettify/prettify.css" rel="stylesheet">
   
+  
   <script src="{{ site.url }}/assets/js/google-code-prettify/prettify.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+  <script src="{{ site.url }}/assets/js/util.js"></script>
+  <script src="{{ site.url }}/assets/js/holder.js"></script>
   
  
 

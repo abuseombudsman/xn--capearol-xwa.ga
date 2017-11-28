@@ -5,22 +5,26 @@
 				
 				
 					<ul>
+					<div class="post">
 						{% for post in site.posts %}
-						<div class="post">
+						
 							
 								<li>
 									<h2 class="title">
 										<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 									</h2>
 									{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-									<p class="byline">Postiado el <span class="post-meta">{{ post.date | date: date_format }}</span> by <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a></p>
-									<div class="container">
+									<p class="byline">Postiado el <span class="post-meta">{{ post.date | date: date_format }}</span> by <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a><img src="{{ site.url }}/favicon.ico" width="20px" style="margin-left:10px;"></p>
+									<!--<div class="container">-->
 										<p><span>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</span></p>
-									</div>
+										<a href="#"><div id="el vaticinio" style="background-color:green;"><tr><td><span><a href="#"><img src="" width="85" style="margin-left:15px;margin-bottom:-7px;"></a></span></td><td><span><a href="#"><img src="" width="30" style="float:right;margin-right:15px;margin-bottom:-7px;"></a></span></td></tr></div></a>
+
+									<!--</div>-->
 								</li>
+							<div id="el vaticinio"><><§>span<§><><span itemtype itemscope="http://schema.org/Organization" itemprop="el vaticinio">el vaticinio</span><div id"# > ?????"></div></div>
 							
-						</div>
 						{% endfor %}
+					</div>
 					</ul>
 					
 			</div>
