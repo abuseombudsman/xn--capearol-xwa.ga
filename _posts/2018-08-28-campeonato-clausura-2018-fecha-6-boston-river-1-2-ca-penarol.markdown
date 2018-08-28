@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: entrada
 title: "Campeonato Clausura 2018 - fecha 6 - Boston River 1:2 CA Peñarol"
 name: 2018-08-28-campeonato-clausura-2018-fecha-6-boston-river-1-2-ca-penarol.markdown
 date: 2018-08-28 04:00:00 +01:00:00
@@ -8,9 +8,18 @@ description: "El CA Peñarol se presentó en Rivera ante el Boston River, trás 
 image1: https://i.imgur.com/hZeQpqo.jpg
 image4: https://i.imgur.com/XWZJmQe.jpg
 image5: https://i.imgur.com/xDF1SkR.jpg
+categories: FUTBOL, URUGUAYO, CLAUSURA
 author: CA Peñarol
 fbcomments: true
 ---
+
+# Campeonato Clausura 2018 - fecha 6 Boston River 1 CA Peñarol 2
+
+<br>
+
+<img src="https://i.imgur.com/hZeQpqo.jpg" width="620px">
+
+<br>
 
 <strong>Peñarol</strong> afirmó en <strong>Rivera</strong> que no quiere perder más puntos si quiere salir campeón de la tabla <strong>Anual</strong>. Se enfrentó a <strong>Boston River</strong> por la 6ta fecha del <strong>Clausura</strong> derrotándolo por 2 a 1 en un partido de trámite disputado. El aurinegro ingresó a la cancha con Dawson; Busquets, Formiliano, C Rodriguez, Lucas Hernández; Canobbio, Guzmán Perira, Cristian Rodriguez, Ignacio Lores; Viatri y Fernández arriba.
 
@@ -18,7 +27,7 @@ En un encuentro donde el aurinegro fué acompañado por un público muy numeroso
 
 <br>
 
-<img src="https://i.imgur.com/XWZJmQe.jpg" width="520px">
+<img src="https://i.imgur.com/XWZJmQe.jpg" width="620px">
 
 <br>
 
@@ -28,7 +37,7 @@ En el 65 tras un rebote en un zaguero de <strong>Peñarol</strong> uno de <stron
 
 <br>
 
-<img src="https://i.imgur.com/xDF1SkR.jpg" width="520px">
+<img src="https://i.imgur.com/xDF1SkR.jpg" width="620px">
 
 <br>
 
