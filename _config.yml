@@ -27,7 +27,7 @@ markdown:           kramdown
 # Server
 # source:             "."
 # destination:        ./_site
-port:               9001
+port:               9003
 baseurl:            "" # the subpath of your site, e.g. /blog
 url:                "http://xn--pearol-xwa.ga" # the base hostname & protocol for your site, e.g. http://example.com
 # encoding:           UTF-8

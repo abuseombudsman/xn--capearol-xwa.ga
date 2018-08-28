@@ -17,7 +17,7 @@ fbcomments: true
 
 <br>
 
-<img src="https://i.imgur.com/hZeQpqo.jpg" width="620px">
+<img src="https://i.imgur.com/hZeQpqo.jpg" width="800px">
 
 <br>
 
@@ -27,7 +27,7 @@ En un encuentro donde el aurinegro fué acompañado por un público muy numeroso
 
 <br>
 
-<img src="https://i.imgur.com/XWZJmQe.jpg" width="620px">
+<img src="https://i.imgur.com/XWZJmQe.jpg" width="800px">
 
 <br>
 
@@ -37,7 +37,7 @@ En el 65 tras un rebote en un zaguero de <strong>Peñarol</strong> uno de <stron
 
 <br>
 
-<img src="https://i.imgur.com/xDF1SkR.jpg" width="620px">
+<img src="https://i.imgur.com/xDF1SkR.jpg" width="800px">
 
 <br>
 
@@ -49,4 +49,4 @@ El traspié de <strong>Nacional</strong> lo deja arriba al <strong>CA Peñarol</
 
 <br>
 
- <iframe width="521" height="360" src="https://www.youtube.com/embed/LSGGoBfB34k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <iframe width="740" src="https://www.youtube.com/embed/LSGGoBfB34k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
