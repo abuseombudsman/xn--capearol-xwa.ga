@@ -8,7 +8,7 @@ description: "El CA Peñarol se presentó en Rivera ante el Boston River, trás 
 image1: https://i.imgur.com/hZeQpqo.jpg
 image4: https://i.imgur.com/XWZJmQe.jpg
 image5: https://i.imgur.com/xDF1SkR.jpg
-categories: FUTBOL, URUGUAYO, CLAUSURA
+categories: FUTBOL URUGUAYO CLAUSURA
 author: CA Peñarol
 fbcomments: true
 ---
