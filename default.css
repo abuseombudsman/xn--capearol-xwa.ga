@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	background: #dcb208;
 	text-align: initial;
-	font-family:  Tahoma, Arial, Helvetica, sans-serif;
+	font-family:  apple-system, BlinkMacSystemFont, sans-serif;
 	font-size: 11px;
 	color: #f9ebb3;
 }
@@ -259,7 +259,11 @@ img.image {
 	float: left;
 	width: 280px;
 	border: 2px white;
+	border-radius: 15px;
+	padding: 5px;
+	background: #c7c7c7;
 	border-top: 0px;
+	margin-top: 20px;
 	margin-right:20px;
 }
 
