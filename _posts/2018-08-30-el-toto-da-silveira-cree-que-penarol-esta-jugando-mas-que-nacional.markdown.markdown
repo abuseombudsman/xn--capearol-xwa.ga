@@ -11,7 +11,7 @@ author: "CA Peñarol"
 
 # El Toto Da Silveira cree que Peñarol está jugando más que Nacional
 
-### Se diferencia de otros periodistas que insiten que Nacional juega mejor, Da Silveira mantiene que para él Peñarol en los últimos partidos a demostrado que juega mejor contra Peñarol. Personalmente creemos que hay una gran diferencia entre los atacantes de uno y otro equipo, mientras que Nacional tiene a Bergesio solo y que le suele salvar la plata, con el otro punta prueba sin tong ni song y en general tiene menos gol que Peñarol que en la fórmula Toro Fernández - Lucas Viatri encontro la dupla más explosiva y mortífera en éste Clausura
+### Se diferencia de otros periodistas que insiten que Nacional juega mejor, Da Silveira mantiene que para él Peñarol en los últimos partidos a demostrado que juega mejor que los tricolores. Personalmente creemos que hay una gran diferencia entre los atacantes de uno y otro equipo, mientras que Nacional tiene a Bergesio solo y que le suele salvar la plata, con el otro punta prueba sin tong ni song y en general tiene menos gol que Peñarol que en la fórmula Toro Fernández - Lucas Viatri encontro la dupla más explosiva y mortífera que tiene éste Clausura
 
 <br>
 
