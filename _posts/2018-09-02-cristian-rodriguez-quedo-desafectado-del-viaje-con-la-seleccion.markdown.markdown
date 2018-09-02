@@ -5,8 +5,9 @@ name: "2018-09-02-cristian-rodriguez-quedo-desafectado-del-viaje-con-la-seleccio
 date: 2018-09-02 20:30:00 +01:00:00
 categories: Futbol Uruguayo Clausura
 description: "Cristian el Cebolla Rodriguez se desgarró y lo tacharon de la lista de la selección para el viaje a México por el encuentro amistoso y obviamente será baja ante Cerro este domingo en Peñarol."
-keywords: "Da Silveira, A Fondo, 1010 AM, Peñarol esta mas en forma que Nacional"
+keywords: "Da Silveira, A Fondo, 1010 AM, Peñarol esta mas en forma que Nacional, lesión de Cristian Rodriguez, Cebolla será baja contra Cerro"
 author: "CA Peñarol"
+comments: true
 ---
 
 # Cristian Rodriguez quedó desafectado del viaje con la selección y será baja contra Cerro
