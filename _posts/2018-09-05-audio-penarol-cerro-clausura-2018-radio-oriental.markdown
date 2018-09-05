@@ -1,7 +1,7 @@
 ---
 layout: entrada
-title: "Clausura 2018: Fecha No 7 CA Peñarol vs CA Cerro - Partido Completo - audio (Oriental 770)"
-name: 2018-09-05-campeonato-clausura-2018-fecha-No-7-audio.markdown
+title: "Audio Peñarol Cerro Clausura 2018 radio Oriental"
+name: 2018-09-05-audio-penarol-cerro-clausura-2018-radio-oriental.markdown
 tags: "Fútbol 2018 Uruguayo Clausura Audios Partidos-Completos Peñarol Cerro audio youtube"
 description: "El audio del partido completo por el Clausura 2018 fecha 07 entre Peñarol y Cerro en el CDS Fútbol al Máximo Oriental 770 Goñi Bardaquian"
 author: CA Peñarol

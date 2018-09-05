@@ -1,7 +1,7 @@
 ---
 layout: entrada
-title: "Clausura 2018: Fecha No 7 CA Peñarol vs CA Cerro - Partido Completo - video (VTV)"
-name: 2018-09-04-campeonato-clausura-2018-fecha-No-7-video.markdown
+title: "Clausura 2018: Fecha No 7 Peñarol vs Cerro Partido Completo"
+name: 2018-09-04-clausura-2018-fecha-no-7-penarol-vs-cerro-partido-completo.markdown
 tags: "Fútbol 2018 Uruguayo Clausura Videos Partidos-Completos Peñarol Cerro video youtube"
 description: "El partido completo por el Clausura 2018 fecha 07 entre Peñarol y Cerro en el CDS"
 author: CA Peñarol
