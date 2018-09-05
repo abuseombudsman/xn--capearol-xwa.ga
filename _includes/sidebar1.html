@@ -1,10 +1,10 @@
 		<div id="sidebar1" class="sidebar span4">
 			<ul> <!--class="border"-->
 				<li>
-					<h2>Últimas Entradas</h2>
+					<h2>Te puede interesar</h2>
 					<div class="tags">
 						<ul>
-							{% for post in site.posts limit:5 %}
+							{% for post in site.posts limit:10 %}
 							<li><p class="tags"><a tabindex="-1" href="{{ post.url }}"><span style="color:#3a3632;width:180;">{{ post.title }}</a></p></li> <!--#dcb208 -->
 							{% endfor %}
 						</ul>
