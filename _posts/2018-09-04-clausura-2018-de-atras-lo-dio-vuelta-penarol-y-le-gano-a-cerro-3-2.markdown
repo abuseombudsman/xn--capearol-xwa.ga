@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: entrada
 title:  "Clausura 2018: De atrás lo dió vuelta Peñarol y le ganó a Cerro 3-2 en la fecha 07"
 name: "2018-09-04-clausura-2018-de-atras-lo-dio-vuelta-penarol-y-le-gano-a-cerro-3-2.markdown"
 date: 2018-09-04 13:00:00 +01:00:00
@@ -10,7 +10,7 @@ partido: "Peñarol -vs- Cerro"
 campeonato: "Clausura 2018"
 fecha: 07
 author: "CA Peñarol"
-fbcomments: true
+comments: true
 image1: https://i.imgur.com/evFOvKH.jpg
 image4: https://i.imgur.com/8Ga2H2k.jpg
 image5: https:////i.imgur.com/wJqVnev.jpg
