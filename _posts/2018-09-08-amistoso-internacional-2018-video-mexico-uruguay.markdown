@@ -1,7 +1,7 @@
 ---
 layout: entrada
-title: "Amistoso Internacional 2018: México vs Uruguay el video del partido completo "
-name: 2018-09-08-amistoso-internacional-2018-mexico-vs-uruguay-el-video.markdown
+title: "Amistoso Internacional 2018: Video México vs Uruguay Partido Completo "
+name: 2018-09-08-amistoso-internacional-2018-video-mexico-vs-uruguay.markdown
 keywords: "Fútbol 2018 Selección Amistosos Partidos-Completos México Uruguay video youtube"
 description: "El video del amistoso internacional disputado en Houston entre los equipos de México y Uruguay en Fecha FIFA"
 author: CA Peñarol
