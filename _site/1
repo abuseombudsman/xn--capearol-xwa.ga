@@ -1,0 +1,93 @@
+		<div id="sidebar1" class="sidebar span4">
+			<ul> <!--class="border"-->
+				<li>
+					<h2>Te puede interesar</h2>
+					<div class="tags">
+						<ul>
+							{% for post in site.posts limit:10 %}
+							<li>![{{ post.title }}]({{ post.image1 }}</li>
+							<li><span>{{ post.description }}</span></li>
+							<li><span>{{ post.tags }}</span></li>
+							<li><span>{{ page.comments }}</span></li>
+							<li><span><a href="{{ post.image1 }}">{{ post.image1 }}</a></span></li>
+							<li><p class="tags"><a tabindex="-1" href="{{ post.url }}"><span style="color:#3a3632;width:180;">{{ post.title }}</a></p></li> <!--#dcb208 -->
+							{% endfor %}
+						</ul>
+					</div>
+				</li>
+				<hr class="bs-docs-separator">
+					
+				<li>
+					<h2>Streams de deportes</h2>
+					<div class="row-fluid">
+						<ul class="thumbnails">
+							<li class="span8">
+								<a href="./arenasport1.html" class="thumbnail">
+									<img src="{{ site.url }}/images/arena_sport_kanali_173012.png" width="500px" alt="">
+								</a>
+							</li>
+						</ul>
+					<div>
+				</li>
+				
+				<hr class="bs-docs-separator">
+		
+				<li>
+					<h2>Twitter</h2>
+					<ul>
+						<center>
+							<li>
+								<a href="https://twitter.com/intent/tweet?screen_name=AbuseOmbudsman" class="twitter-mention-button" data-show-count="false">Tweet to @AbuseOmbudsman</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+							</li>
+						</center>
+						<center>
+							<li>
+								<a href="https://twitter.com/AbuseOmbudsman" class="twitter-follow-button" data-show-count="false">Follow @AbuseOmbudsman</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+							</li>
+						</center>
+						<center>
+							<li class="pre-scrollable">
+								<!--<pre class="pre-scrollable" style="background-color:#9b7e0a;margin-top:0px;">-->
+									<div id="tweets">
+										<a class="twitter-timeline" data-lang="es" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/AbuseOmbudsman">Tweets by AbuseOmbudsman</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+									</div>
+								<!--</pre>-->
+							</li>
+						</center>
+					</ul>
+				</li>
+				<hr class="bs-docs-separator">
+				
+				<li>
+					<h2>Últimos Comentarios</h2>
+					<ul>
+						<li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#">Aliquam libero</a></li>
+						<li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#">Consectetuer adipiscing elit</a></li>
+						<li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#">Metus aliquam pellentesque</a></li>
+						<li><a href="http://templated.co" rel="nofollow">TEMPLATED</a> on <a href="#">Suspendisse iaculis mauris</a></li>
+					</ul>
+				</li>
+				<hr class="bs-docs-separator">
+				<!--<li>
+					<h2>Categories</h2>
+					<ul>
+						<li><a href="#">Aliquam libero</a></li>
+						<li><a href="#">Consectetuer adipiscing elit</a></li>
+						<li><a href="#">Metus aliquam pellentesque</a></li>
+						<li><a href="#">Suspendisse iaculis mauris</a></li>
+					</ul>
+				</li>-->
+				<li>
+					<h2>Archivo</h2>
+					<ul>
+						<li><a href="#">September</a> (23)</li>
+						<li><a href="#">August</a> (31)</li>
+						<li><a href="#">July</a> (31)</li>
+					</ul>
+				</li>
+				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li><br><br>
+				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li><br><br>
+				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li>
+				
+			</ul>
+		</div>
