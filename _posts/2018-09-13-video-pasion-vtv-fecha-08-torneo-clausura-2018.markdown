@@ -20,3 +20,7 @@ Resúmen de la fecha 08 del Torneo Clausura 2018 del programa PASIÓN de VTV con
 <br>
 
 <iframe width="521" height="360" src="https://www.youtube.com/embed/8yM4P65Y8wo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="http://torrentstream.org/embed/90376e75d76523fd38d21ddadee2bc6b66180246" style="width: 640px; height: 360px; border: none; background-color: #000;" meta="auto" autoplay=" true;" frameborder="0"></iframe>
