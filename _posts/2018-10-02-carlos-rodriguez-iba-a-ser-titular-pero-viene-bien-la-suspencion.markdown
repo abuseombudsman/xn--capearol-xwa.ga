@@ -1,15 +1,15 @@
 ---
 layout: entrada
-title: "Carlos Rodriguez: Iba a ser titular pero viene bien la suspención de la fecha"
+title: "Carlos Rodriguez zaguero de Peñarol: Iba a ser titular pero viene bien la suspención de la fecha"
 name: 2018-10-02-carlos-rodriguez-iba-a-ser-titular-pero-viene-bien-la-suspencion.markdown
 keywords: "Fútbol, 2018, Peñarol, Entrevistas, Carlos Rodriguez, video, youtube"
 description: "Video-Entrevista a Carlos Rodriguez zaguero dde Peñarol quien confirmó que iba a ser titular ante Rampla Jrs pero le vino bien la suspención de la fecha y el descanso."
 author: CA Peñarol
-gosne: CA Peñarol
-comments: true
-Campeonato: ""
-Fecha:
-Partido: ""
+gosne: CA Verdad
+fbcomments: true
+Campeonato: "Clausura 2018"
+Fecha: 10
+Partido: "Peñarol vs Rampla"
 categories: Fútbol 2018 Peñarol Entrevistas
 image1: https://i.imgur.com/ILqi8hq.jpg
 date: 2018-10-02 00:55:00 +01:00:00
