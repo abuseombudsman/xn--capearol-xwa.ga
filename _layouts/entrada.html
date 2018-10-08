@@ -1,7 +1,8 @@
 ---
 layout: blogpost
 ---
-<div id="content"><div class="container">
+
+<div class="container">
 <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   
@@ -19,12 +20,20 @@ layout: blogpost
  
 
 	<div class="entry" itemprop="articleBody">
-		{{ content }}
+		<center>
+			<img src="{{ page.image1 }}" width="800">
+		</center>
+			
+		<br>
 		
+			{{ content }}
+
+		<br>
+	
 	</div>
 
 	{% if site.disqus.shortname %}
 		{% include disqus_comments.html %}
 	{% endif %}
 </div>
-</div></div>
+	</div>
