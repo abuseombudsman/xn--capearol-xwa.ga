@@ -1,2 +1,2 @@
 # xn--capearol-xwa.ga
-We won't fake it, we just take it.
+We don't fake it, we just take it.
