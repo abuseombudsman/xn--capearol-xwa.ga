@@ -23,9 +23,9 @@ Conferencia-de-Prensa: false
 Video: false
 ---
 
-Campeonato: <span>{{ page.campeonato }}</span><br>
-Fecha: <span>{{ page.fecha }}</span><br>
-Encuentro: <span>{{ page.partido }}</span><br>
+Campeonato: <span>{{ page.Campeonato }}</span><br>
+Fecha: <span>{{ page.Fecha }}</span><br>
+Encuentro: <span>{{ page.Partido }}</span><br>
 <span style="color:red;font-weight:900">Crónica</span>
 
 Increíble partido de Peñarol ante Rampla. Se jugó bien, se suplieron las ausencias con aprobado confirmando que a Peñarol le sobra plantel, se generaron no menos de 10 o 12 situaciones de gol, pero a la hora de definir Peñarol no tuvo puntería y en otras tantas a Rampla lo salvó el Chupete Ordiozola que tapó no menos de 6 o 7 mano a mano.
@@ -34,7 +34,7 @@ En otro partido Gabriel Fernández la hubiera empujado para adentro, esta vez el
 
 <br>
 
-<img src="{{ page.image3 }}" width="521">
+<img src="{{ page.image3 }}" width="800">
 
 <br>
 
@@ -44,7 +44,7 @@ Pero esto creemos se va a ir viendo seguramente éste tipo de fallos se hablen y
 
 <br>
 
-<img src="{{ page.image4 }}" width="521">
+<img src="{{ page.image4 }}" width="800">
 
 <br>
 
@@ -52,7 +52,7 @@ En el segundo tiempo Peñarol bajó un poco de revoluciones, igual fué más per
 
 <br>
 
-<img src="{{ page.image5 }}" width="521">
+<img src="{{ page.image5 }}" width="800">
 
 <br>
 
