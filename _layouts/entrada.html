@@ -7,7 +7,7 @@ layout: blogpost
 
  <div class="container">
   <header>
-    <h2 class="heading" itemprop="name headline"><a class="post-link" href="{{ site.url }}/{{ page.url }}">{{ post.title | escape }}</a></h2>
+
 
      <p class="byline">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -20,7 +20,7 @@ layout: blogpost
 	    <img src="{{ site.url }}/favicon.ico" style="margin-left:10px;" width="20px">
 	   </p>
   </header>
-
+  <h2 class="article-heading" itemprop="name headline"><a class="post-link" href="{{ site.url }}/{{ page.url }}">{{ post.title | escape }}</a></h2>
    <h1 class="title" style="font-family:color:yellow;letter-spacing:0;">
      <a href="{{ site.url }}/{{ page.url }}" style="text-decoration:none;">
        <span style="color:yellow;">
