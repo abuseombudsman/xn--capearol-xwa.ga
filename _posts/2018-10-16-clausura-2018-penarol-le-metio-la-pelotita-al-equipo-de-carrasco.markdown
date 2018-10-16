@@ -24,7 +24,7 @@ Conferencia-de-Prensa: false
 Video: false
 ---
 
-<h1>{{ post.title }}</h1>
+<h1><span>{{ page.title }}</span></h1>
 
 Campeonato: <span>{{ page.campeonato }}</span><br>
 Fecha: <span>{{ page.fecha }}</span><br>
