@@ -2,12 +2,14 @@
 layout: blogpost
 ---
 
-<div class="container">
+
 <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  
+ <div class="container">
+  <header>
     <h2 class="title" itemprop="name headline"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-    <p class="byline">
+
+     <p class="byline">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
@@ -15,25 +17,37 @@ layout: blogpost
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}
-	  <img src="{{ site.url }}/favicon.ico" style="margin-left:10px;" width="20px">
-	</p>
- 
+	    <img src="{{ site.url }}/favicon.ico" style="margin-left:10px;" width="20px">
+	   </p>
+  </header>
 
-	<div class="entry" itemprop="articleBody">
-		<center>
-			<img src="{{ page.image1 }}" width="800">
-		</center>
-			
-		<br>
-		
-			{{ content }}
+   <h1 class="title" itemprop="name headline" style="font-family:color:yellow;letter-spacing:0;">
+     <a href="{{ site.url }}/{{ page.url }}" style="text-decoration:none;">
+       <span class="article-heading" style="color:yellow;">
+         {{ page.title | escape }}<!-- Progreso vs Peñarol en el Nasazzi a las 15:30 hora uruguaya-->
+       </span>
+     </a>
+   </h1>
 
-		<br>
-	
-	</div>
+   <br>
+   
+	 <div class="entry" itemprop="articleBody">
+		 <center>
+			 <img src="{{ page.image1 }}" width="800">
+		 </center>
+
+		 <br>
+
+			 {{ content }}
+
+		 <br>
+
+	 </div>
 
 	{% if site.disqus.shortname %}
 		{% include disqus_comments.html %}
 	{% endif %}
+
+ </div>
+
 </div>
-	</div>
