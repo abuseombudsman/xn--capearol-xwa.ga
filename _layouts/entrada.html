@@ -7,7 +7,7 @@ layout: blogpost
 
  <div class="container">
   <header>
-    <h2 class="title" itemprop="name headline"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    <h2 class="heading" itemprop="name headline"><a class="post-link" href="{{ site.url }}/{{ page.url }}">{{ post.title | escape }}</a></h2>
 
      <p class="byline">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -21,16 +21,16 @@ layout: blogpost
 	   </p>
   </header>
 
-   <h1 class="title" itemprop="name headline" style="font-family:color:yellow;letter-spacing:0;">
+   <h1 class="title" style="font-family:color:yellow;letter-spacing:0;">
      <a href="{{ site.url }}/{{ page.url }}" style="text-decoration:none;">
-       <span class="article-heading" style="color:yellow;">
+       <span style="color:yellow;">
          {{ page.title | escape }}<!-- Progreso vs Peñarol en el Nasazzi a las 15:30 hora uruguaya-->
        </span>
      </a>
    </h1>
 
    <br>
-   
+
 	 <div class="entry" itemprop="articleBody">
 		 <center>
 			 <img src="{{ page.image1 }}" width="800">
