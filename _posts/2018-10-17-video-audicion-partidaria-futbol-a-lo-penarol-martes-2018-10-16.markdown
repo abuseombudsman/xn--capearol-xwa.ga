@@ -20,9 +20,9 @@ Video: true
 date: 2018-10-17 00:00:00 +01:00:00
 ---
 
-Campeonato: <span>{{ page.campeonato }}</span><br>
-Fecha: <span>{{ page.fecha }}</span><br>
-Encuentro: <span>{{ page.partido }}</span><br>
+Campeonato: <span>{{ page.Campeonato }}</span><br>
+Fecha: <span>{{ page.Fecha }}</span><br>
+Encuentro: <span>{{ page.Partido }}</span><br>
 <span style="color:red;font-weight:900">Audición Partidaria de Peñarol</span>
 
 EL video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol edición martes 16 de octubre 2018 por radio 1010 AM.
@@ -34,6 +34,6 @@ EL video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol edición 
 
 <br>
 
-<iframe width="800" src="https://www.youtube.com/embed/m2Uh8chqMbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="521" height="360" src="https://www.youtube.com/embed/m2Uh8chqMbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
