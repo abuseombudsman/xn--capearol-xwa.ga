@@ -54,7 +54,7 @@ Released   : 20091004
 <meta property="og:url" content="http://localhost:9003/shakhyar" />
 <meta property="og:site_name" content="Sitio No Oficial del Club Atlético Peñarol" />
 <script type="application/ld+json">
-{"description":"UEFA CHAMPIONS LEAGUE","mainEntityOfPage":null,"@type":"WebPage","publisher":null,"image":null,"url":"http://localhost:9003/shakhyar","name":null,"author":{"@type":"Person","name":"xn--pearol-xwa.ga"},"headline":"SHAKHTAR DONJETSK - NAPOLI","dateModified":null,"datePublished":null,"sameAs":null,"@context":"http://schema.org"}</script>
+{"sameAs":null,"dateModified":null,"datePublished":null,"mainEntityOfPage":null,"@type":"WebPage","publisher":null,"image":null,"url":"http://localhost:9003/shakhyar","name":null,"author":{"@type":"Person","name":"xn--pearol-xwa.ga"},"headline":"SHAKHTAR DONJETSK - NAPOLI","description":"UEFA CHAMPIONS LEAGUE","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   
