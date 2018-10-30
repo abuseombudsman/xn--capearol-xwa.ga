@@ -1,6 +1,6 @@
 ---
 layout: entrada
-title: "Clausura 2018: Fecha 13: Nacional 1:1 Peñarol, Crónica: Se mantiene la misma diferencia de puntos"
+title: "Clausura 2018: Fecha 13 Nacional 1:1 Peñarol, Crónica: Se mantiene la misma diferencia de puntos"
 name: 2018-10-27-clausura-2018-fecha-13-nacional-1-1-penarol-cronica-se-mantiene.markdown
 keywords: "Fútbol, 2018, Uruguayo, Clausura, Fecha 13, Nacional vs Peñarol, Crónica"
 description: "Peñarol dispuso de más ocaciones en el primer tiempo, Nacional arrancó mejor el segundo tiempo con un gol de vestuario y al final volvió a dominar Peñarol quién pudo igualar el clásico con un gol de Viatri. Las tablas quedaron iguales."
