@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Home
-description:
-keywords: streams, deportes, online, eliminatorias sudamericanas, rusia 2018, seleccion, seleccion uruguaya, peñarol, club atletico peñarol.
+description: "Página dedicada al fútbol uruguayo, en especial a la Selección Uruguaya de Fútbol y al Club Atlético Peñarol de Montevideo, Uruguay"
+keywords: Fútbol Uruguayo, Selección Nacional Uruguaya de Fútbol, Club Atlético Peñarol
 author: xn--capearol-xwa.ga
 ---
