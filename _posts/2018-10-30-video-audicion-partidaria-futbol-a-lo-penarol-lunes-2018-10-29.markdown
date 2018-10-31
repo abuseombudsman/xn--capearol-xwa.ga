@@ -42,4 +42,4 @@ EL video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol edición 
 
 <br>
 
-<span style="color:yellow;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="65" height="45" style="border:1px solid green;"></a>
+<span style="color:yellow;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="65px" height="30px" style="border:1px solid green;"></a>
