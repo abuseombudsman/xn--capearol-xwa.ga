@@ -20,10 +20,12 @@ Conferencia-de-Prensa: false
 Video: true
 ---
 
+<html>
 Campeonato: <span>{{ page.Campeonato }}</span><br>
 Fecha: <span>{{ page.Fecha }}</span><br>
 Encuentro: <span>{{ page.Partido }}</span><br>
 <span style="color:red;font-weight:900">Partido Completo</span>
+</html>
 
 Video del partido entre Nacional vs Peñarol por la final del Campeonato Uruguayo 2018 en el Estadio Centenario. Transmición de VTV (Tenfield) por el stream de FutbolAndres en internet, servicio de interés público.
 
