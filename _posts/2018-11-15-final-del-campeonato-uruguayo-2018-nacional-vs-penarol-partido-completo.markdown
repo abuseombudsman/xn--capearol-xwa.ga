@@ -1,16 +1,16 @@
 ---
 layout: entrada
-title: "Video: Campeonato Uruguayo 2018 Semifinal Nacional vs Peñarol Partido Completo"
-name: 2018-11-15-campeonato-uruguayo-2018-semifinal-nacional-vs-penarol-partido-completo.markdown
-keywords: "Fútbol, 2018, Uruguayo, Semifinal, Nacional vs Peñarol, Partido Completo, video, youtube"
-description: "Video del partido entre Nacional y Peñarol en el Estadio Centenario el 11 de noviembre por la semifinal del Campeonato Uruguayo 2018. Transmición de VTV (Tenfield) por el stream de FutbolAndres en internet, servicio de interés público."
+title: "Final del Campeonato Uruguayo 2018: Nacional vs Peñarol Partido Completo"
+name: 2018-11-15-final-del-campeonato-uruguayo-2018-nacional-vs-penarol-partido-completo.markdown
+keywords: "Fútbol, 2018, Uruguayo, Final, Nacional vs Peñarol, Partido Completo, video"
+description: "Video del partido entre Nacional y Peñarol en el Estadio Centenario el 11 de noviembre por la final del Campeonato Uruguayo 2018. Transmición de VTV (Tenfield) por el stream de FutbolAndres en internet, servicio de interés público."
 author: CA Peñarol
 gosne: Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl-CA Peñarol
 comments: true
 Campeonato: "Uruguayo 2018"
 Fecha: Semifinal
 Partido: "Nacional vs Peñarol"
-categories: Fútbol 2018 Uruguayo Semifinal Videos Partidos-Completos
+categories: Fútbol 2018 Uruguayo Final Videos Partidos-Completos
 image1: https://i.imgur.com/KfGicQ9.jpg
 date: 2018-11-15 23:00:00 +01:00:00
 Crónica: false
