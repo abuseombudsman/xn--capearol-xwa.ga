@@ -1,0 +1,45 @@
+<li style="background:#eaf804;">
+  <div style="margin-left:10px;padding:2px;">
+    <p class="category">
+
+        <span style="color:#3a3632;width:1440;padding:2px 2px;font-weight:900;font-size:39px;">
+          Entrevistas
+        </span>
+
+
+  {% for post in site.posts limit:3 %}
+  <style>
+    .entrevistas {
+      width: 400px;
+      background: black;
+      margin-right: 20px;
+      height: 100%;
+      padding: 3px;
+    }
+  </style
+  </p>
+  <a href="{{ post.url }}">
+    <p class="entrevistas" style="width:400;background:black;display:inline-block;">
+
+      <span style="color:yellow;width:400;padding:5;font-weight:900;font-size:16px;">
+
+          {{ post.title }}
+
+      </span>
+      
+        <span>
+          <img src="{{ post.image1 }}" style="height:240px;">
+        </span>
+
+      <span style="color:yellow;width:400;padding:3px 3px;font-size:12px;">
+
+          {{ post.description }}
+
+      </span>
+  </p>
+  </a>
+
+  {% endfor %}
+
+  </div>
+</li>

@@ -14,7 +14,7 @@ categories: Fútbol Peñarol Entrevistas
 image1: https://i.imgur.com/gECOOhW.jpg
 Crónica: false
 Entrevista: true
-Duración: "01:59 minutos"
+duracion: "01:59 minutos"
 Partido-Completo: false
 Conferencia-de-Prensa: false
 Video: true
@@ -22,7 +22,7 @@ date: 2018-11-16 10:30:00 +01:00:00
 ---
 
 <span style="color:red;font-weight:900">Entrevista</span><br>
-<span>Duración: {{ page.Duración }}</span><br>
+<span>Duración: {{ page.duracion }}</span><br>
 
 <br>
 

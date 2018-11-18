@@ -1,8 +1,7 @@
 ---
-layout: adaptaciones
-title: "Adaptaciones"
-description: "Adaptaciones del CDN que utilizamos"
-keywords: "CDN, adaptaciones, código"
+layout: toggle
+title: "Entrevistas"
+description: "Entrevistas"
+keywords: "CDN, entrevista, código"
 author: abuseombudsman
 ---
-
