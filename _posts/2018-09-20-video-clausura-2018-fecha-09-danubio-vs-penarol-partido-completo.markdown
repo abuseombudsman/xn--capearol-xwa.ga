@@ -11,7 +11,7 @@ Campeonato: "Clausura 2018"
 Fecha: 09
 Partido: "Danubio vs Peñarol"
 categories: Fútbol 2018 Uruguayo Clausura Fecha-09 Videos Partidos-Completos
-image1: https://i.imgur.com/V1iTank.jpg
+image1: https://i.imgur.com/UYGZK0E.jpg
 date: 2018-09-20 10:00:00 +01:00:00
 ---
 

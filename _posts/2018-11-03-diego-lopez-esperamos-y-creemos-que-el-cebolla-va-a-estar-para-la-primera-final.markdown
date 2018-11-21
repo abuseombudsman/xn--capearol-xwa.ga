@@ -14,6 +14,9 @@ categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñaro
 image1: https://i.imgur.com/CFjlxqp.jpg
 Crónica: false
 Entrevista: true
+entrevistado: "Diego López"
+leyenda: "Esperamos y creemos que el Cebolla va a estar para la primera final"
+duracion: "23:37 minutos"
 Partido-Completo: false
 Conferencia-de-Prensa: false
 Video: true

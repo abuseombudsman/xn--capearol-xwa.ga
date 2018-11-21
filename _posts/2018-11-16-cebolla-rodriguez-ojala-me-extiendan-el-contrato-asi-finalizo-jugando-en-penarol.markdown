@@ -14,6 +14,8 @@ categories: Fútbol Peñarol Entrevistas
 image1: https://i.imgur.com/AWAbUWX.jpg
 Crónica: false
 Entrevista: true
+entrevistado: "Cebolla Rodríguez"
+leyenda: "Ojalá me extiendan el contrato así finalizo jugando en Peñarol"
 duracion: "04:27 minutos"
 Partido-Completo: false
 Conferencia-de-Prensa: false

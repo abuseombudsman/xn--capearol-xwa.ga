@@ -7,11 +7,11 @@ description: "El partido completo por el Clausura 2018 fecha 07 entre Peñarol y
 author: CA Peñarol
 gosne: CA Peñarol
 comments: true
-campeonato: "Clausura 2018"
-fecha: 07
+Campeonato: "Clausura 2018"
+Fecha: "07"
 partido: "CA Peñarol vs CA Cerro"
 categories: Fútbol 2018 Uruguayo Clausura Videos Partidos-Completos
-image1: https://i.imgur.com/hNMrLRj.jpg
+image1: https://i.imgur.com/0TItUOu.jpg
 date: 2018-09-04 21:00:00 +01:00:00
 ---
 

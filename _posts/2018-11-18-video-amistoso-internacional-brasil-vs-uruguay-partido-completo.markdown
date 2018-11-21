@@ -8,7 +8,7 @@ author: CA Peñarol
 gosne: Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl-CA Peñarol
 comments: true
 Campeonato: "Amistoso Internacional"
-Fecha: "Fecha FIFA 16 Nov"
+Fecha: "Fecha FIFA"
 Partido: "Brasil vs Uruguay"
 categories: Fútbol 2018 Uruguay Amistoso-Internacional Videos Partidos-Completos
 image1: https://i.imgur.com/GniGmgn.jpg

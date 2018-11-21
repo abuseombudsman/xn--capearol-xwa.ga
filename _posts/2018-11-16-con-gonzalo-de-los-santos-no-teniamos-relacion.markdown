@@ -14,7 +14,9 @@ categories: Fútbol Peñarol Entrevistas
 image1: https://i.imgur.com/c591M1p.jpg
 Crónica: false
 Entrevista: true
+entrevistado: "El Tío Sánchez"
 duracion: "38:13 minutos"
+leyenda: "Con Gonzalo De Los Santos no teníamos relación"
 Partido-Completo: false
 Conferencia-de-Prensa: false
 Video: true

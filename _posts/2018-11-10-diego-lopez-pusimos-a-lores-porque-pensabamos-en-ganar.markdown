@@ -8,12 +8,15 @@ author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
 comments: true
 Campeonato: "Uruguayo 2018"
-Fecha: Semifinal 1
-Partido: "Peñarol vs Nacional"
-categories: Fútbol 2018 Uruguayo Semifinal Peñarol-vs-Nacional Previa Entrevistas
+Fecha: "Fecha 15"
+Partido: "Defensor Sporting vs Peñarol"
+categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Entrevistas
 image1: https://i.imgur.com/d1VEQZD.jpg
 Crónica: false
 Entrevista: true
+entrevistado: "Diego López"
+leyenda: "Pusimos a Lores porque pensábamos en ganar"
+duracion: "14:53 minutos"
 Partido-Completo: false
 Conferencia-de-Prensa: false
 Video: true

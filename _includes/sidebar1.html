@@ -5,16 +5,34 @@
 					<div class="tags">
 						<ul>
 							{% for post in site.posts limit:10 %}
-					
-						
-								
 
-							<li style="background:#eaf804;"><div style="margin-left:10px;padding:10px;"><p class="tags"><a tabindex="-1" href="{{ post.url }}"><span style="color:#3a3632;width:180;padding:10px 10px;font-weight:900;">{{ post.title }}</a></p></div></li> <!--#dcb208 -->
-						        	{% if post.image1 %}
-                                                              		<li>
-                                                                      		<span><img src="{{ post.image1 }}" alt="{{ post.title }}" width="260px"></span>
-                                                              		</li>
-									<li><span style="font-weight:900;"><a href="{{ post.image1 }}">{{ post.image1 }}</a></span></li>
+
+
+
+							<li style="background:#eaf804;">
+								<div style="margin-left:10px;padding:10px;">
+									<p class="tags">
+										<a tabindex="-1" href="{{ post.url }}">
+											<span style="color:#3a3632;width:180;padding:10px 10px;font-weight:900;">
+												{{ post.title }}
+											</span>
+										</a>
+									</p>
+								</div>
+							</li> <!--#dcb208 -->
+						  {% if post.image1 %}
+              <li>
+              	<span>
+									<img src="{{ post.image1 }}" alt="{{ post.title }}" width="260px">
+								</span>
+              </li>
+							<li>
+								<span style="font-weight:900;">
+									<a href="{{ post.image1 }}">
+										{{ post.image1 }}
+									</a>
+								</span>
+							</li>
                                                            	{% endif %}
 								<li><hr /></li>
 
@@ -25,7 +43,7 @@
 					</div>
 				</li>
 				<hr class="bs-docs-separator">
-					
+
 				<li>
 					<h2>Streams de deportes</h2>
 					<div class="row-fluid">
@@ -38,9 +56,9 @@
 						</ul>
 					<div>
 				</li>
-				
+
 				<hr class="bs-docs-separator">
-		
+
 				<li>
 					<h2>Twitter</h2>
 					<ul>
@@ -66,7 +84,7 @@
 					</ul>
 				</li>
 				<hr class="bs-docs-separator">
-				
+
 				<li>
 					<h2>Últimos Comentarios</h2>
 					<ul>
@@ -97,6 +115,6 @@
 				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li><br><br>
 				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li><br><br>
 				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li>
-				
+
 			</ul>
 		</div>

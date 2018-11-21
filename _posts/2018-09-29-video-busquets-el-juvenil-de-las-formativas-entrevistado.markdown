@@ -1,6 +1,6 @@
 ---
 layout: entrada
-title: "Video: Busquets, el juvenil de las formativas entrevistado por Jorge Da Silveira"
+title: "Video: Busquets: Me dijeron que tenía que presentarme en los aromos para jugar al otro día"
 name: 2018-09-29-video-busquets-el-juvenil-de-las-formativas-entrevistado.markdown
 keywords: "Fútbol, 2018, Peñarol, entrevista a Busquets, video, youtube"
 description: "Grabación de la entrevista a Ezequiel Busquets, lateral derecho de Peñarol realizada por Jorge Da Silveira, A Fondo 1010 AM."
@@ -12,6 +12,14 @@ Fecha:
 Partido: ""
 categories: Fútbol 2018 Peñarol Videos Entrevistas
 image1: https://i.imgur.com/sijxRaD.jpg
+Crónica: false
+Entrevista: true
+entrevistado: "Sergio Busquets"
+leyenda: "Me dijeron que tenía que presentarme en los aromos para jugar al otro día"
+duracion: "7:56 minutos"
+Partido-Completo: false
+Conferencia-de-Prensa: false
+Video: true
 date: 2018-09-29 20:11:00 +01:00:00
 ---
 

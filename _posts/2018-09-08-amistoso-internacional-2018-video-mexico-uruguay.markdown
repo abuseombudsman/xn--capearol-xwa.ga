@@ -7,11 +7,11 @@ description: "El video del amistoso internacional disputado en Houston entre los
 author: CA Peñarol
 gosne: CA Peñarol
 comments: true
-campeonato: "Amistoso Internacional"
-fecha: 07
-partido: "México vs Uruguay"
-categories: Fútbol 2018 Selección Amistosos Videos Partidos-Completos
-image1: "https://i.imgur.com/U2Llo1S.jpg"
+Campeonato: "Amistoso Internacional"
+Fecha: "Fecha FIFA"
+Partido: "México vs Uruguay"
+categories: Fútbol 2018 Selección Amistosos-Internacionales Videos Partidos-Completos
+image1: "https://i.imgur.com/ApGWOsP.jpg"
 date: 2018-09-08 07:00:00 +01:00:00
 ---
 

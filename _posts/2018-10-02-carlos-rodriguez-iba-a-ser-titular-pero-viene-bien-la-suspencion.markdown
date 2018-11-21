@@ -12,6 +12,14 @@ Fecha: 10
 Partido: "Peñarol vs Rampla"
 categories: Fútbol 2018 Peñarol Entrevistas
 image1: https://i.imgur.com/ILqi8hq.jpg
+Crónica: false
+Entrevista: true
+entrevistado: "Carlos Rodriguez"
+leyenda: "Iba a ser titular pero viene bien la suspención de la fecha"
+duracion: "1:12 minutos"
+Partido-Completo: false
+Conferencia-de-Prensa: false
+Video: true
 date: 2018-10-02 00:55:00 +01:00:00
 ---
 

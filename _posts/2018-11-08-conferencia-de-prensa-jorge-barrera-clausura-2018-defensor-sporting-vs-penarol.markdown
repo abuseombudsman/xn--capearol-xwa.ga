@@ -9,14 +9,14 @@ gosne: Grêmio[Es-Un-Matriarcado|Es-Un-Patriarcado]y-en-el-conviven-los-dos-cole
 comments: true
 campeonato: "Clausura 2018"
 fecha: 15
-partido: "Defensor Sporting vs Peñarol"
+Partido: "Defensor Sporting vs Peñarol"
 categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñarol Conferencia-de-Prensa
 image1: https://i.imgur.com/iRKrcot.jpg
 date: 2018-11-08 03:20:00 +01:00:00
 Crónica: false
 Entrevista: false
 Partido-Completo: false
-Conferencia-de-Prensa: true
+conferencia: "Conferencia De Prensa"
 Video: true
 ---
 

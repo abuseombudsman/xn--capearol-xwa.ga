@@ -9,8 +9,10 @@ gosne: Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl-CA Peñarol
 comments: true
 Campeonato: "Uruguayo 2018"
 Fecha: Final
+seleccion: false
+penarol: true
 Partido: "Nacional vs Peñarol"
-categories: Fútbol 2018 Uruguayo Final Videos Partidos-Completos
+categories: Fútbol 2018 Uruguayo Final Videos Partidos-Completos Obieto
 image1: https://i.imgur.com/KfGicQ9.jpg
 date: 2018-11-15 23:00:00 +01:00:00
 Crónica: false

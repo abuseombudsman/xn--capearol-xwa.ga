@@ -14,7 +14,9 @@ categories: Fútbol Peñarol Entrevistas
 image1: https://i.imgur.com/gECOOhW.jpg
 Crónica: false
 Entrevista: true
+entrevistado: "Juan Pedro Damiani"
 duracion: "01:59 minutos"
+leyenda: "Éste triunfo es una consolidación de Barrera como presidente"
 Partido-Completo: false
 Conferencia-de-Prensa: false
 Video: true
@@ -50,4 +52,4 @@ Juan Pedro Damiani fue entrevistado por la 890 a la salida del Estadio Centenari
 
 <br>
 
-<span style="color:yellow;background:black;padding:2px;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="55px" style="border:1px solid green;"></a>
+<span style="color:yellow;background:black;padding:2px;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="65px" style="border:1px solid green;"></a>

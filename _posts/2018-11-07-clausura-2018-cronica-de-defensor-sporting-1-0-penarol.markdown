@@ -10,7 +10,7 @@ comments: true
 campeonato: "Clausura 2018"
 fecha: 15
 partido: "Defensor Sporting vs Peñarol"
-categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñarol Crónica
+categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñarol Cronica
 image1: https://i.imgur.com/J0uxqYA.jpg
 image3: https://i.imgur.com/5fL1Wbz.jpg
 image4: https://i.imgur.com/6fYROQx.jpg
@@ -18,7 +18,10 @@ image5: https://i.imgur.com/qsaaIkl.jpg
 image6: https://i.imgur.com/XlAkmLl.jpg
 image7: https://i.imgur.com/LwF4N3o.jpg
 date: 2018-11-07 01:00:00 +01:00:00
-Crónica: true
+Cronica: true
+cronica: cronica
+titulo-delaleyenda: "Campeones Uruguayos ganando el Clásico de atrás!!!"
+descripcion-delaleyenda: "Peñarol se coronó anoche en el Estadio Centenario Campeón Uruguayo 2018 tras vencer 2-1 a Nacional en el alrgue"
 Entrevista: false
 Partido-Completo: false
 Conferencia-de-Prensa: false

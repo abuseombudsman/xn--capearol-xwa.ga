@@ -1,8 +1,8 @@
 ---
 layout: entrada
-title: "El Tito fue importante ante Cerro cuando subió a cabecear"
+title: "Tito Formiliano: Emocionó de la manera como se dio el último gol"
 name: 2018-09-07-el-tito-fue-importante-ante-cerro-cuando-subió.markdown
-keywords: "Fútbol 2018 Uruguayo Clausura Peñarol Tito Formiliano audio youtube"
+keywords: "Fútbol, 2018, Uruguayo, Clausura, Peñarol, Tito Formiliano, Entrevista, youtube"
 description: "El Tito fue importante llendo a cabecear al área de Cerro el domingo, en conferencia de prensa habló del partido, la tranquilidad que da el resultado y de lo que se viene. Grabamos el audio del programa de Da Silveira A Fondo por 1010 AM"
 author: CA Peñarol
 gosne: CA Peñarol
@@ -12,6 +12,14 @@ fecha: 07
 partido: "Peñarol vs Cerro"
 categories: Fútbol 2018 Uruguayo Clausura Audios Entrevistas
 image1: https://i.imgur.com/COM79E9.jpg
+Crónica: false
+Entrevista: true
+entrevistado: "Tito Formiliano"
+leyenda: "Emocionó de la manera como se dio el último gol"
+duracion: "2:06 minutos"
+Partido-Completo: false
+Conferencia-de-Prensa: false
+Video: true
 date: 2018-09-07 17:15:00 +01:00:00
 ---
 
