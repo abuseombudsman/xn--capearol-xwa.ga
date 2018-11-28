@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
-categories: Fútbol Peñarol Entrevistas
+categories: Fútbol Peñarol Entrevistas Bingo
 image1: https://i.imgur.com/AWAbUWX.jpg
 Crónica: false
 Entrevista: true

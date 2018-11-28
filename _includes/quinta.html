@@ -12,41 +12,105 @@
       }
     </style
 <!--<a href="{{ post.url }}">-->
-    <div class="category">
+<br>
+
+<br>
+
+<p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
+  ÚLTIMO PARTIDO {{ post.partido }}
+</p>
+<span style="color:#3a3632;background:#eaf804;">{{ post.partido }}</span>
+
+<br>
+
+    <div class="category" style="background:#000;">
       <style>
         .category {
-          width: 800px;
+          width: 960px;
           background: black;
-          margin-left: 20px;
-          margin-right: 20px;
+          margin-left: 0px;
+          margin-right: 0px;
           height: 100%;
-          padding: 25px;
+          padding: 45px;
           float: left;
         }
       </style><!--#3a3632-->
 
       {% for post in site.categories.Cronica limit: 1 %}
       <a href="{{ post.url }}">
-        <span style="color:yellow;width:940;padding:2px 2px;font-weight:900;font-size:26px;">
+        <span style="color:yellow;width:960;padding:2px 2px;font-weight:900;font-size:46px;">
           {{ post.titulo-delaleyenda }}<br>
         </span>
 
         <br>
 
-        <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+        <span style="color:red;width:960;padding:2px 2px;font-weight:900;font-size:16px;">
           {{ post.descripcion-delaleyenda }}<br>
         </span>
 
         <br>
 
-        <img src="{{ post.image1 }}" width="940">
+        <img src="{{ post.image1 }}" width="960">
 
         <br>
      </a>
      {% endfor %}
 
    </div>
-<div class="franja-horizontal" style="display:inline-block;">
+
+   <div class="costado">
+     <style>
+       .costado {
+         width: 300px;
+         background: #000;
+         color: yellow;
+         float: right;
+         padding: 20px;
+       }
+     </style>
+     {% for post in site.categories.Audicion-Partidaria limit: 1 %}
+     <a href="{{ post.url }}">
+       <span style="font-weight:900;font-size:20px;">Fútbol A Lo Peñarol</span><br>
+       <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+         Audición Partidaria
+       </span>
+       <img src="{{ post.image1}}">
+       <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+         {{ post.date | date_to_string }}
+       </span>
+       <br>
+    </a>
+     {% endfor %}
+
+    <br>
+
+     {% for post in site.categories.Sport890 limit: 1 %}
+     <a href="{{ post.url }}">
+       <span style="font-weight:900;font-size:20px;">Informe de Peñarol</span><br>
+       <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+         Sport 890
+       </span>
+       <img src="{{ post.image1}}">
+       <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+         {{ post.date | date_to_string }}
+       </span>
+       <br>
+    </a>
+     {% endfor %}
+   </div>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+   <br>
+
+
+<div class="franja-horizontal" style="display:inline-block;background:#000;">
    <div class="franja-ultimo-partido">
      <style>
        .franja-ultimo-partido {
@@ -59,12 +123,6 @@
 
        }
     </style>
-
-
-    <br>
-
-
-
 
    {% for post in site.categories.Obieto limit:1 %}
 
@@ -89,6 +147,7 @@
   {% endfor %}
 </div>
 
+
   {% for post in site.categories.Conferencia-de-Prensa limit:2 %}
 <div class="franja-ultimo-partido">
    <a href="{{ post.url }}">
@@ -112,16 +171,27 @@
  {% endfor %}
 </div>
 
+
+
+
+<br>
+
 <br>
 
 <p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
-  ÚLTIMOS VIDEOS
+  ÚLTIMOS VIDEOS PEÑAROL
 </p>
 
+<br>
 
-<div class="franja-horizontal" style="display:inline-block;">
+<br>
 
-    {% for post in site.categories.Entrevistas limit:3 %}
+
+<div class="franja-horizontal" style="display:inline-block;background:#000;">
+
+    {% for post in site.categories.Bingo limit:6 %}
+
+
 
       <div class="franja-ultimo-partido">
 
@@ -157,6 +227,50 @@
 
   <br>
 
+  <br>
+
   <p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
-    SELECCIÓN
+    ÚLTIMOS VIDEOS SELECCIÓN
   </p>
+
+  <br>
+
+  <br>
+
+  <div class="franja-horizontal" style="display:inline-block;background:#000;">
+
+      {% for post in site.categories.Bongo limit:6 %}
+
+
+
+        <div class="franja-ultimo-partido">
+
+          <a href="{{ post.url }}">
+            <span style="color:yellow;width:940;padding:2px 2px;font-weight:900;font-size:20px;">
+              {{ post.entrevistado }}
+            </span>
+
+            <br>
+
+            <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+              {{ post.duracion }}
+            </span>
+
+            <br>
+
+            <img src="{{ post.image1 }}" width="940">
+
+            <br>
+
+            <span style="color:yellow;width:800;padding:3px 3px;font-size:24px;">
+
+                "{{ post.leyenda }}"
+                <!--{{ post.Partido }}-->
+
+            </span>
+         </a>
+       </div>
+
+     {% endfor %}
+
+    </div>

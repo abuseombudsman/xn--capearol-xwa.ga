@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Uruguayo 2018"
 Fecha: "Fecha 15"
 Partido: "Defensor Sporting vs Peñarol"
-categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Entrevistas
+categories: Fútbol Peñarol Entrevistas Bingo
 image1: https://i.imgur.com/d1VEQZD.jpg
 Crónica: false
 Entrevista: true

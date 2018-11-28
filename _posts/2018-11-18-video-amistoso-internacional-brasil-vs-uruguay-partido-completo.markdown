@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Amistoso Internacional"
 Fecha: "Fecha FIFA"
 Partido: "Brasil vs Uruguay"
-categories: Fútbol 2018 Uruguay Amistoso-Internacional Videos Partidos-Completos
+categories: Fútbol 2018 Selección Amistoso-Internacional Videos Partidos-Completos
 image1: https://i.imgur.com/GniGmgn.jpg
 date: 2018-11-18 18:00:00 +01:00:00
 Crónica: false

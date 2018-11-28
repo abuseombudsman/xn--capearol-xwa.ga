@@ -10,6 +10,7 @@ comments: true
 campeonato: "Uruguayo 2018"
 fecha: Final
 partido: "Nacional vs Peñarol"
+resultado-partido: "Nacional 1:2 Peñarol"
 categories: Fútbol 2018 Uruguayo Final Defensor-Sporting-vs-Peñarol Cronica
 image1: https://i.imgur.com/daTgkEo.jpg
 image3: https://i.imgur.com/qfamMSp.jpg

@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Clausura 2018"
 Fecha: 15
 Partido: "Defensor Sporting vs Peñarol"
-categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñarol Previa Fútbol-A-Lo-Peñarol Audicion-Partidaria
+categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñarol Previa Audicion-Partidaria
 image1: https://i.imgur.com/I6ahzAA.png
 Crónica: false
 Entrevista: false

@@ -67,16 +67,16 @@ img.image {
 #header {
 	width: 1404px;
 	margin: 0 auto;
-	
+
 }
 
 /* Header */
 
 #logo {
-	width: 1404px;/*950px;*/
-	height: 361px;/*191px;*/
+	width: 1400px;/*950px;*/
+	height: 242px;/*191px;*/
 	margin: 0 auto;
-	background: url(images/nota.jpg) no-repeat left bottom;
+	background: url(images/nota-2.jpg) no-repeat left bottom;
 }
 
 #logo h1, #logo p {
@@ -193,7 +193,7 @@ img.image {
 	line-height: 20px;
 	border-bottom: 1px #2C4449 solid;
 	word-spacing: 0.04em;
-	
+
 }
 
 .post h1 {
@@ -282,22 +282,22 @@ img.image {
 	margin-right:20px;
 }
 
-.border { 
-	border-width: 5px; 
-	border-color: black; 
-	border-style: solid; 
+.border {
+	border-width: 5px;
+	border-color: black;
+	border-style: solid;
 }
 
-.border3 { 
-	border-width: 8px; 
-	border-color: grey; 
-	border-style: solid; 
+.border3 {
+	border-width: 8px;
+	border-color: grey;
+	border-style: solid;
 }
 
-.border5 { 
-	border-width: 5px; 
-	border-color: white; 
-	border-style: solid; 
+.border5 {
+	border-width: 5px;
+	border-color: white;
+	border-style: solid;
 }
 
 .borderfino {
@@ -306,18 +306,18 @@ img.image {
 	border-style: solid;
 }
 
-.border6 { 
-	border-width: 8px; 
+.border6 {
+	border-width: 8px;
 	border-color: #c69a6f;/*#9b7e0a; */
-	border-style: solid; 
+	border-style: solid;
 }
 
-.border7 { 
-	border-width: 3px; 
-	border-color: #c69a6f; 
-	border-style: solid; 
+.border7 {
+	border-width: 3px;
+	border-color: #c69a6f;
+	border-style: solid;
 }
-			
+
 
 .sidebar {
 	float: left;
@@ -472,4 +472,3 @@ img.image {
 
 #footer .copyright {
 }
-
