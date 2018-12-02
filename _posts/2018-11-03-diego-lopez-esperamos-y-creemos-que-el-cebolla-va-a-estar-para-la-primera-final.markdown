@@ -2,7 +2,7 @@
 layout: entrada
 title: "Diego López: Esperamos y creemos que el Cebolla va a estar para la primera final"
 name: 2018-11-03-diego-lopez-esperamos-y-creemos-que-el-cebolla-va-a-estar-para-la-primera-final.markdown
-keywords: "Fútbol, 2018, Uruguayo, Clausura, Fecha 15, Defensor Sporting vs Peñarol, Previa, Entrevista, Diego López, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, Diego López"
 description: "PREVIA: Defensor Sporting vs Peñarol, Entrevista a Diego López confirma que el Cebolla llega para la primera final del Uruguayo"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Clausura 2018"
 Fecha: 15
 Partido: "Defensor Sporting vs Peñarol"
-categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñarol Previa Entrevistas
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/CFjlxqp.jpg
 Crónica: false
 Entrevista: true

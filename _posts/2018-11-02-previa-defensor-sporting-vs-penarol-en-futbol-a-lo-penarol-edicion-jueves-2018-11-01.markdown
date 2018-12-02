@@ -2,7 +2,7 @@
 layout: entrada
 title: "PREVIA: Defensor Sporting vs Peñarol en Fútbol A Lo Peñarol edición jueves 2018-11-01"
 name: 2018-11-02-previa-defensor-sporting-vs-penarol-en-futbol-a-lo-penarol-edicion-jueves-2018-11-01.markdown
-keywords: "Fútbol, 2018, Uruguayo, Clausura, Fecha 15, Defensor Sporting vs Peñarol, Previa, Fútbol A Lo Peñarol, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Audición Partidaria, Video"
 description: "Audición Partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del jueves 01 de Nov. PREVIA: Defensor Sporting vs Peñarol"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Clausura 2018"
 Fecha: 15
 Partido: "Defensor Sporting vs Peñarol"
-categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Defensor-Sporting-vs-Peñarol Previa Fútbol-A-Lo-Peñarol Audicion-Partidaria
+categories: Futbol 2018 Peniarol Audicion-Partidaria Videos
 image1: https://i.imgur.com/I6ahzAA.png
 Crónica: false
 Entrevista: false

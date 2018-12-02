@@ -2,7 +2,7 @@
 layout: entrada
 title: "Juan Pedro Damiani: Éste triunfo es una consolidación de Barrera como presidente"
 name: 2018-11-16-juan-pedro-damiani-este-triunfo-es-una-consolidacion-de-barrera-como-presidente.markdown
-keywords: "Fútbol, Peñarol, Entrevista, Bingo, Juan Pedro Damiani, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, Juan Pedro Damiani"
 description: "Juan Pedro Damiani dijo que hay mucha calidad en el plantel de Peñarol como por ej: Gargano, Cebolla Rodríguez, Maxi Rodríguez Dawson y expresó sus deseos de mejorar nuestra participación en el plano internacional y porque no intentar el tri-campeonato el año que viene"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
-categories: Fútbol Peñarol Entrevistas Bingo
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/gECOOhW.jpg
 Crónica: false
 Entrevista: true

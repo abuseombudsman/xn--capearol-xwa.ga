@@ -2,7 +2,7 @@
 layout: entrada
 title: "Diego López: Para mejorar en el plano internacional a Peñarol le hace falta continuidad"
 name: 2018-11-28-diego-lopez-para-mejorar-en-el-plano-internacional.markdown
-keywords: "fútbol, 2018, Peñarol, Entrevistas, Videos, Diego López"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, Diego López"
 description: "Diego López resaltó que el triunfo de Peñarol en el Campeonato Uruguayo 2018 es mérito exclusivo de los jugadores también comentó que lo que le falta a Peñarol para mejorar en el plano internacional es continuidad, o sea no desarmar y armar de nuevo el cuadro cada seis meses"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha: ""
 Partido: ""
-categories: Fútbol Selección Entrevistas Videos Bingo
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/PcQQDcS.jpg
 Crónica: false
 Entrevista: true

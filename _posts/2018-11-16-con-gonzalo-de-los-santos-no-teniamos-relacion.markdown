@@ -2,7 +2,7 @@
 layout: entrada
 title: "El Tío Sánchez: Con Gonzalo De Los Santos no teníamos relación"
 name: 2018-11-16-con-gonzalo-de-los-santos-no-teniamos-relacion.markdown
-keywords: "Fútbol, Peñarol, Entrevista, Bingo, Tío Sánchez, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, El Tío Sánchez"
 description: "El Tío Sánchez está cansado de que le toque la tribuna visitante de Nacional arriba del vestuario de Peñarol por los insultos que debe de soportar, los h.d.p le gritaban asesino entre otras cosas "
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
-categories: Fútbol Peñarol Entrevistas Bingo
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/c591M1p.jpg
 Crónica: false
 Entrevista: true

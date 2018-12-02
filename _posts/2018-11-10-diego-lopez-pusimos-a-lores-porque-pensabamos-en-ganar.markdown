@@ -2,7 +2,7 @@
 layout: entrada
 title: "Diego López: Pusimos a Lores porque pensábamos en ganar"
 name: 2018-11-10-diego-lopez-pusimos-a-lores-porque-pensabamos-en-ganar.markdown
-keywords: "Fútbol, 2018, Uruguayo, Semifinal, Peñarol vs Nacional, Previa, Entrevista, Diego López, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, Diego López"
 description: "Entrevista al DT de Peñarol, Diego López confirma que se pensaba en todo momento en ganar el partido contra Defensor Sporting sino hubiera puesto a Novick por Gargano, cambio ya estipulado"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Uruguayo 2018"
 Fecha: "Fecha 15"
 Partido: "Defensor Sporting vs Peñarol"
-categories: Fútbol Peñarol Entrevistas Bingo
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/d1VEQZD.jpg
 Crónica: false
 Entrevista: true

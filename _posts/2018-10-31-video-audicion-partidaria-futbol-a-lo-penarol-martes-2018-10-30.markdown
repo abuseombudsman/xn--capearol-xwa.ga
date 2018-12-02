@@ -2,7 +2,7 @@
 layout: entrada
 title: "Video: Audición Partidaria Fútbol A Lo Peñarol martes 2018-10-30 por 1010 AM"
 name: 2018-10-31-video-audicion-partidaria-futbol-a-lo-penarol-martes-2018-10-30.markdown
-keywords: "Fútbol, 2018, Uruguayo, Clausura, Fecha 15, Defensor Sporting vs Peñarol, Fútbol A Lo Peñarol, Audición Partidaria de Peñarol, 1010 AM, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Audición Partidaria, Video"
 description: "Audición Partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del martes 30 de Oct. Defensor Sporting - Peñarol por la Fecha No 15 del Clausura 2018"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Clausura 2018"
 Fecha: 15
 Partido: "Defensor Sporting vs Peñarol"
-categories: Fútbol 2018 Uruguayo Clausura Fecha-15 Video Audicion-Partidaria Futbol-A-Lo-Peñarol
+categories: Futbol 2018 Peniarol Audicion-Partidaria Videos
 image1: https://i.imgur.com/I6ahzAA.png
 Crónica: false
 Entrevista: false

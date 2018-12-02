@@ -261,7 +261,7 @@ img.image {
 	border: 2px white;
 	border-radius: 15px;
 	padding: 5px;
-	background: #c7c7c7;
+	background: transparent;  /* #c7c7c7 */
 	border-top: 0px;
 	margin-top: 20px;
 	margin-right:20px;
@@ -351,7 +351,7 @@ img.image {
 
 
 .sidebar li h2 {
-	height: 26px;
+	height: 38px;
 	margin: 0 15px;
 	padding: 14px 15px 0px 0px;
 	border-bottom: 1px #2C4449 solid;

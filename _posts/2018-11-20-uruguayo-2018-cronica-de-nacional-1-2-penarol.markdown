@@ -9,7 +9,7 @@ gosne: Grêmio[Es-Un-Matriarcado|Es-Un-Patriarcado]Conviven dentro de Êl-CA Pe�
 comments: true
 campeonato: "Uruguayo 2018"
 fecha: Final
-partido: "Nacional vs Peñarol"
+Partido: "Nacional vs Peñarol"
 resultado-partido: "Nacional 1:2 Peñarol"
 categories: Fútbol 2018 Uruguayo Final Defensor-Sporting-vs-Peñarol Cronica
 image1: https://i.imgur.com/daTgkEo.jpg
@@ -22,7 +22,7 @@ date: 2018-11-20 14:00:00 +01:00:00
 Cronica: true
 cronica: cronica
 titulo-delaleyenda: "Peñarol Campeón Uruguayo 2018"
-descripcion-delaleyenda: "Peñarol se coronó anoche en el Estadio Centenario Campeón Uruguayo 2018 tras vencer 2-1 a Nacional en el alargue, de esta forma Peñarol lo pudo dar vuelta a lo Peñarol a un partido que había empezado perdiendo"
+descripcion-delaleyenda: "Peñarol se coronó anoche en el Estadio Centenario Campeón Uruguayo 2018 tras vencer 2-1 a Nacional en el alargue, el Carbonero terminó ganando a lo Peñarol como al hincha le gusta un partido que había empezado perdiendo"
 Entrevista: false
 Partido-Completo: false
 Conferencia-de-Prensa: false
@@ -31,7 +31,7 @@ Video: false
 
 Campeonato: <span>{{ page.campeonato }}</span><br>
 Fecha: <span>{{ page.fecha }}</span><br>
-Encuentro: <span>{{ page.partido }}</span><br>
+Encuentro: <span>{{ page.Partido }}</span><br>
 <span style="color:red;font-weight:900">Crónica</span>
 
 Peñarol salió como se preveía estudiando al rival en un partido en el que no precisaba ganar, todavía perdiendo habría 2 finales más pero Peñarol a pesar de eso, Nacional entró con la iniciativa, sabía que este domingo era una exelente oportunidad para quedarse con el Campeonato Uruguayo, había solo que ganar.

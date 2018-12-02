@@ -2,7 +2,7 @@
 layout: entrada
 title: "Oscar Tabárez: Acá hay un calendario que ha hecho la FIFA que se debe cumplir"
 name: 2018-11-21-oscar-tabarez-lo-mejor.markdown
-keywords: "fútbol, 2018, selección, fecha FIFA, Brasil vs Uruguay, Francia vs Uruguay, Oscar Tabárez"
+keywords: "Fútbol, 2018, Selección, Entrevista, Video, Oscar Tabárez"
 description: "Tabárez manisfestó que hay un calendario que ha hecho la FIFA con gran antelación y que se debería cumplir refiriendose a la recomendación de la Conmebol de no citar los jugadores de Boca y River que juegan la final de la Libertadores en ésta fecha FIFA"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: "Amistoso Internacional"
 Fecha: "Fecha FIFA"
 Partido: "Francia vs Uruguay"
-categories: Fútbol Selección Entrevistas Bongo
+categories: Futbol 2018 Seleccion Entrevistas Videos Bongo
 image1: https://i.imgur.com/ko8fKcg.jpg
 Crónica: false
 Entrevista: true

@@ -2,7 +2,7 @@
 layout: entrada
 title: "Cebolla Rodríguez: Ojalá me extiendan el contrato así finalizo jugando en Peñarol"
 name: 2018-11-16-cebolla-rodriguez-ojala-me-extiendan-el-contrato-asi-finalizo-jugando-en-penarol.markdown
-keywords: "Fútbol, Peñarol, Entrevista, Cebolla Rodríguez, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, Cebolla Rodríguez"
 description: "Viendo entrenar a Maxi Rodríguez me motivó a seguir jugando unos años más. Ojalá me extiendan el contrato así finalizo jugando en Peñarol"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
-categories: Fútbol Peñarol Entrevistas Bingo
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/AWAbUWX.jpg
 Crónica: false
 Entrevista: true

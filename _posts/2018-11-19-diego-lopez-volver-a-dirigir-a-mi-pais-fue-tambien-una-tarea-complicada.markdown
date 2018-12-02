@@ -2,7 +2,7 @@
 layout: entrada
 title: "Diego López: Volver a dirigir en mi país fue también una tarea complicada"
 name: 2018-11-19-diego-lopez-volver-a-dirigir-a-mi-pais-fue-tambien-una-tarea-complicada.markdown
-keywords: "Fútbol, 2018, Peñarol, Entrevista, Diego López, video"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, Diego López"
 description: "Diego López, entrevistado por el periodista Julio Ríos en su programa de las voces del fútbol contó como fue armando su equipo de primera, adaptándose a trabajar de nuevo en su país y reconoció que tuvo que atravesar momentos complicados"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
-categories: Fútbol Peñarol Entrevistas Bingo
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/bcUJdgR.jpg
 Crónica: false
 Entrevista: true

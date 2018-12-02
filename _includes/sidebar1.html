@@ -2,6 +2,9 @@
 			<ul> <!--class="border"-->
 				<li>
 					<h2>Te puede interesar</h2>
+
+					<br>
+
 					<div class="tags">
 						<ul>
 							{% for post in site.posts limit:10 %}
@@ -9,19 +12,19 @@
 
 
 
-							<li style="background:#eaf804;">
-								<div style="margin-left:10px;padding:10px;">
+							<li style="background:#eaf804;"><!-- #eaf804  -->
+								<div style="margin-left:10px;padding:10px;vertical-align:-20px;">
 									<p class="tags">
 										<a tabindex="-1" href="{{ post.url }}">
-											<span style="color:#3a3632;width:180;padding:10px 10px;font-weight:900;">
+											<span style="color:#3a3632;width:180;padding:10px 0px;font-weight:900;">
 												{{ post.title }}
 											</span>
 										</a>
 									</p>
 								</div>
-							</li> <!--#dcb208 -->
+							 <!--#dcb208 -->
 						  {% if post.image1 %}
-              <li>
+
               	<span>
 									<img src="{{ post.image1 }}" alt="{{ post.title }}" width="260px">
 								</span>
@@ -34,7 +37,7 @@
 								</span>
 							</li>
                                                            	{% endif %}
-								<li><hr /></li>
+								<li></li>
 
 								<br>
 
@@ -42,7 +45,7 @@
 						</ul>
 					</div>
 				</li>
-				<hr class="bs-docs-separator">
+			<!--	<hr class="bs-docs-separator">
 
 				<li>
 					<h2>Streams de deportes</h2>
@@ -75,11 +78,11 @@
 						<center>
 							<li class="pre-scrollable">
 								<!--<pre class="pre-scrollable" style="background-color:#9b7e0a;margin-top:0px;">-->
-									<div id="tweets">
+						<!--			<div id="tweets">
 										<a class="twitter-timeline" data-lang="es" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/AbuseOmbudsman">Tweets by AbuseOmbudsman</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 									</div>
 								<!--</pre>-->
-							</li>
+						<!--	</li>
 						</center>
 					</ul>
 				</li>
@@ -104,17 +107,17 @@
 						<li><a href="#">Suspendisse iaculis mauris</a></li>
 					</ul>
 				</li>-->
-				<li>
+			<!--	<li>
 					<h2>Archivo</h2>
 					<ul>
 						<li><a href="#">September</a> (23)</li>
 						<li><a href="#">August</a> (31)</li>
 						<li><a href="#">July</a> (31)</li>
 					</ul>
-				</li>
+				</li> -->
+			<!--	<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li><br><br>
 				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li><br><br>
-				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li><br><br>
-				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li>
+				<li><center><span><img src="http://tillhörpeñarol.tk/images/g4872.png" width="100"></span></center></li> -->
 
 			</ul>
 		</div>

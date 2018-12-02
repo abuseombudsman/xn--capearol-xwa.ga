@@ -2,7 +2,7 @@
 layout: entrada
 title: "Gastón Tealdi: Que el hincha se quede tranquilo y prosiga con sus festejos"
 name: 2018-11-29-gaston-tealdi-que-el-hincha.markdown
-keywords: "fútbol, 2018, Peñarol, entrevistas, video, Gastón Tealdi"
+keywords: "Fútbol, 2018, Peñarol, Entrevista, Video, Gastón Tealdi"
 description: "Gastón Tealdi le da tranquilidad a los hinchas por el caso de denuncia y pedido de revocación del partido con Nacional ya que momento se habla de sanción sino una recomendación de que el ayudante acompañe al técnico en caso de expulsión"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha: ""
 Partido: ""
-categories: Fútbol 2018 Peñarol Entrevistas Bingo
+categories: Futbol 2018 Peniarol Entrevistas Videos Bingo
 image1: https://i.imgur.com/4k3rWiA.jpg
 Crónica: false
 Entrevista: true
