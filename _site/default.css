@@ -472,3 +472,35 @@ img.image {
 
 #footer .copyright {
 }
+
+.article-label {
+  background-image:url(../images/label.png);
+  background-size:116px 50px;
+  width:116px;
+  height:50px;
+  position: relative;
+  top: 58px;
+  left: -15px;
+  font-size: 16px;
+  padding-top:0px;
+  text-align:center;
+  color:#FFF;
+  text-transform:uppercase;
+  font-weight:400;
+}
+
+.article-label-lg {
+    background-image: url(../images/label.png);
+    background-size: 180px 50px;
+    width: 180px;
+    height: 50px;
+    position: relative;
+    top: 58px;
+    left: -15px;
+    font-size: 16px;
+    padding-top: 0px;
+    text-align: center;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: 400;
+}

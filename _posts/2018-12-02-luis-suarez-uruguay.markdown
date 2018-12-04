@@ -1,5 +1,5 @@
 ---
-layout: entrada
+layout: entrada1
 title: "Luís Suárez: Uruguay apuesta a las juveniles para asegurar el futuro"
 name: 2018-12-02-luis-suarez-uruguay.markdown
 keywords: "Fútbol, 2018, Selección, Entrevista, Video, Luís Suárez"

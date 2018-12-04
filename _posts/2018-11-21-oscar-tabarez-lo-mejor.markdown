@@ -1,5 +1,5 @@
 ---
-layout: entrada
+layout: entrada1
 title: "Oscar Tabárez: Acá hay un calendario que ha hecho la FIFA que se debe cumplir"
 name: 2018-11-21-oscar-tabarez-lo-mejor.markdown
 keywords: "Fútbol, 2018, Selección, Entrevista, Video, Oscar Tabárez"

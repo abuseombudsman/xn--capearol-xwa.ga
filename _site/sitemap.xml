@@ -431,6 +431,9 @@
 <loc>http://localhost:9003/fcportobesiktas.html</loc>
 </url>
 <url>
+<loc>http://localhost:9003/fotos.html</loc>
+</url>
+<url>
 <loc>http://localhost:9003/futbolargentino.html</loc>
 </url>
 <url>
@@ -470,10 +473,16 @@
 <loc>http://localhost:9003/partidos-completos.html</loc>
 </url>
 <url>
+<loc>http://localhost:9003/penarol.html</loc>
+</url>
+<url>
 <loc>http://localhost:9003/puntajeperfecto.html</loc>
 </url>
 <url>
 <loc>http://localhost:9003/quienes-somos.html</loc>
+</url>
+<url>
+<loc>http://localhost:9003/seleccion.html</loc>
 </url>
 <url>
 <loc>http://localhost:9003/sevillaliverpool.html</loc>

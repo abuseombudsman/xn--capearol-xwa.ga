@@ -1,0 +1,48 @@
+<p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
+  ÚLTIMAS FOTOS
+</p>
+
+<br>
+
+<br>
+
+<div class="franja-horizontal" style="display:inline-block;background:transparent;">
+  <style>
+    .franja-horizontal {
+      width: 1400px;
+      height: 100%;
+      background: background:#eaf804;
+      display: inline-block;
+      padding: 0px;
+    }
+  </style>
+
+    {% for post in site.posts %}
+
+
+
+      <div class="franja-ultimo-partido">
+
+        <style>
+          .franja-ultimo-partido {
+            width: 300px;
+            background: transparent;
+            height: 350px;
+            padding: 25px;
+            float: left;
+            display: inline;
+
+          }
+       </style>
+
+        <a href="{{ post.image1 }}">
+
+          <img src="{{ post.image1 }}" width="940">
+
+          <br
+       </a>
+     </div>
+
+   {% endfor %}
+
+  </div>

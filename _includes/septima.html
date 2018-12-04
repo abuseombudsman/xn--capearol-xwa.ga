@@ -1,0 +1,120 @@
+
+  <p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
+    ÚLTIMOS VIDEOS SELECCIÓN
+  </p>
+
+  <br>
+
+  <br>
+
+  <div class="franja-horizontal" style="display:inline-block;background:transparent;">
+    <style>
+      .franja-horizontal {
+        width: 1400px;
+        height: 100%;
+        background: background:#eaf804;
+        display: inline-block;
+        padding: 0px;
+      }
+    </style>
+
+      {% for post in site.categories.Bongo limit:6 %}
+
+
+
+        <div class="franja-ultimo-partido">
+
+          <style>
+            .franja-ultimo-partido {
+              width: 300px;
+              background: transparent;
+              height: 350px;
+              padding: 25px;
+              float: left;
+              display: inline;
+
+            }
+         </style>
+
+          <a href="{{ post.url }}">
+            <span style="color:yellow;width:940;padding:2px 2px;font-weight:900;font-size:20px;">
+              {{ post.entrevistado }}
+            </span>
+
+            <br>
+
+            <span style="color:#c1bfbe;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+              {{ post.duracion }}
+            </span>
+
+            <br>
+
+            <img src="{{ post.image1 }}" width="940">
+
+            <br>
+
+            <span style="color:yellow;width:800;padding:3px 3px;font-size:24px;">
+
+                "{{ post.leyenda }}"
+                <!--{{ post.Partido }}-->
+
+            </span>
+         </a>
+       </div>
+
+     {% endfor %}
+
+    </div>
+    <p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
+      TAMBIÉN TE PODRÍA INTERESAR
+    </p>
+
+    <br>
+
+    <style>
+      .franja-horizontal {
+        width: 1400px;
+        height: 100%;
+        background: background:#eaf804;
+        display: inline-block;
+        padding: 0px;
+      }
+    </style>
+
+    <div class="franja-horizontal" style="display:inline-block;">
+
+        {% for post in site.posts limit:4 %}
+
+
+
+          <div class="franja-ultimo-partido">
+
+            <a href="{{ post.url }}">
+              <span style="color:yellow;padding:2px 2px;font-weight:900;font-size:20px;">
+                {{ post.title }}
+              </span>
+
+              <br>
+
+            <!--  <span style="color:red;padding:2px 2px;font-weight:900;font-size:16px;">
+                {{ post.duracion }}
+              </span>
+
+              <br> -->
+
+              <img src="{{ post.image1 }}">
+
+              <br>
+
+            <!--  <span style="color:yellow;width:800;padding:3px 3px;font-size:24px;">
+
+                  "{{ post.leyenda }}"
+                  <!--{{ post.Partido }}-->
+
+            <!--  </span>  -->
+           </a>
+         </div>
+
+       {% endfor %}
+
+      </div>
