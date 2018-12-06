@@ -33,8 +33,20 @@ Video del partido entre Nacional vs Peñarol por la final del Campeonato Uruguay
 
 <br>
 
+<html>
+<div>
 <iframe width="521" height="360" src="https://www.youtube.com/embed/Mjuqau995k0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 <span style="color:yellow;background:black;padding:2px;">RIPIADO CON</span> <a href="http://ffmpeg.org"><img src="{{ site.url }}/images/ffmpeg.png" width="55" style="border:1px solid green;"></a>
+
+<br>
+</div>
+</html>
+
+### HD
+
+<div>
+<iframe width="521" height="360" src="https://www.youtube.com/embed/Shfitz7Nj18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
