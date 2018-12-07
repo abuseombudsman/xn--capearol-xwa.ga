@@ -1,55 +1,66 @@
-<li style="background:#eaf804;">
-  <div style="margin-left:10px;padding:2px;">
-    <p class="category">
-
-        <span style="color:#3a3632;width:1440;padding:2px 2px;font-weight:900;font-size:39px;">
-          ÚLTIMOS VIDEOS
-        </span>
 
 
-  {% for post in site.categories.Partidos-Completos %}
+<br>
+
+<p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
+  ÚLTIMOS VIDEOS PARTIDOS COMPLETOS
+</p>
+
+<br>
+
+<br>
+
+
+<div class="franja-horizontal" style="display:inline-block;background:transparent;">
   <style>
-    .entrevistas {
-      width: 400px;
-      background: black;
-      margin-left: 20px;
-      margin-right: 20px;
+    .franja-horizontal {
+      width: 1400px;
       height: 100%;
-      padding: 10px;
+      background: background:#eaf804;
+      display: inline-block;
+      padding: 0px;
     }
-  </style
-  </p>
-  <a href="{{ post.url }}">
-    <p class="entrevistas" style="width:400;background:black;display:inline-block;">
+  </style>
 
-      <span style="color:#fff;width:800;padding:8;font-weight:900;font-size:26px;">
-
-          <!--{{ post.entrevistado }}<br>-->
-          {{ post.Campeonato }}
+    {% for post in site.categories.Partidos-Completos %}
 
 
-      </span>
-      <span style="color:red;width:800;padding:8;font-weight:900;font-size:16px;">
-          <!--Duración: {{ post.duracion }}-->
-          {{ post.Fecha }}
-      </span>
 
-        <span>
-          <img src="{{ post.image1 }}" style="height:240px;">
-        </span>
+      <div class="franja-ultimo-partido">
 
+        <style>
+          .franja-ultimo-partido {
+            width: 300px;
+            background: transparent;
+            height: 350px;
+            padding: 25px;
+            float: left;
+            display: inline;
 
-      <!--<span style="color:yellow;width:800;padding:3px 3px;font-size:24px;">
+          }
+       </style>
 
-          <!--"{{ post.leyenda }}"-->
-          <!--{{ post.Partido }}-->
+        <a href="{{ post.url }}">
+          <span style="color:#c1bfbe;width:940;padding:2px 2px;font-weight:900;font-size:26px;">
+            {{ post.Campeonato }}
+          </span>
 
-      <!--</span>-->
-  </p>
-  </a>
+          <br>
 
-  {% endfor %}
+          <span style="color:red;width:300;padding:2px 2px;font-weight:900;font-size:16px;">
+            {{ post.Fecha }}
+          </span>
 
+          <br>
+
+          <img src="{{ post.image1 }}" width="940">
+
+          <br>
+
+       </a>
+
+     </div>
+
+   {% endfor %}
 
   </div>
-</li>
