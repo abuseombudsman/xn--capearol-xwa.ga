@@ -44,8 +44,17 @@ layout: blogpost
   </h2>
 
    <br>
-
+   <script src="{{ site.url }}/assets/js/jquery-1.7.1.min.js"></script>
+   <script src="{{ site.url }}/assets/js/jquery.fitvids.js"></script>
+   <script>
+     $(document).ready(function(){
+       // Target your .container, .wrapper, .post, etc.
+       $(".entry").fitVids();
+     });
+   </script>
 	 <div class="entry" itemprop="articleBody">
+
+
 		 <center>
 			 <img src="{{ page.image1 }}" width="800">
 		 </center>
