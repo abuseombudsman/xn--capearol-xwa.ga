@@ -2,7 +2,7 @@
 layout: entrada
 title: "Informe de Peñarol de la 890, 19 Nov"
 name: 2018-11-19-informe-de-panarol-de-la-890-19-nov.markdown
-keywords: "Fútbol, 2018, Peñarol, Informe, Sport890, video YouTube"
+keywords: "Fútbol, 2018, Peñarol, Informe, Sport 890, Video"
 description: "El informe de la 890 del 19 Nov sobre el Club Atlético Peñarol"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
@@ -10,8 +10,8 @@ comments: true
 Campeonato: ""
 Fecha: ""
 Partido: ""
-categories: Fútbol 2018 Peñarol Informe Sport890 Video
-image1: https://i.imgur.com/DRs7pxc.jpg
+categories: Fútbol 2018 Peñarol Informe-Sport Video
+image1: https://i.imgur.com/XYAnY8a.png
 Crónica: false
 Entrevista: false
 Partido-Completo: false
