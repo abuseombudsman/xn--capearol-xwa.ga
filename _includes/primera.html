@@ -1,55 +1,105 @@
-<li style="background:#eaf804;">
-  <div style="margin-left:10px;padding:2px;">
-    <p class="category">
-
-        <span style="color:#3a3632;width:1440;padding:2px 2px;font-weight:900;font-size:39px;">
-          ÚLTIMOS VIDEOS
-        </span>
-
-
-  {% for post in site.categories.Entrevistas limit:9 %}
-  <style>
-    .entrevistas {
-      width: 400px;
-      background: black;
-      margin-left: 20px;
-      margin-right: 20px;
-      height: 100%;
-      padding: 10px;
-    }
-  </style
-  </p>
-  <a href="{{ post.url }}">
-    <p class="entrevistas" style="width:400;background:black;display:inline-block;">
-
-      <span style="color:#fff;width:800;padding:8;font-weight:900;font-size:26px;">
-
-          {{ post.entrevistado }}<br>
 
 
 
-      </span>
-      <span style="color:red;width:800;padding:8;font-weight:900;font-size:16px;">
-          Duración: {{ post.duracion }}
+<p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
+  ÚLTIMAS ENTREVISTAS
+</p>
 
-      </span>
+<br>
 
-        <span>
-          <img src="{{ post.image1 }}" style="height:240px;">
-        </span>
+<br>
 
 
-      <span style="color:yellow;width:800;padding:3px 3px;font-size:24px;">
+<div class="franja-horizontal" style="display:inline-block;background:transparent;">
 
-          "{{ post.leyenda }}"
-          <!--{{ post.Partido }}-->
+    {% for post in site.categories.Entrevistas limit:8 %}
 
-      </span>
-  </p>
-  </a>
 
-  {% endfor %}
 
+      <div class="franja-ultimo-partido">
+
+        <a href="{{ post.url }}">
+          <span style="color:yellow;width:940;padding:2px 2px;font-weight:900;font-size:20px;">
+            {{ post.entrevistado }}
+          </span>
+
+          <br>
+
+          <span style="color:#c1bfbe;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+            {{ post.duracion }}
+          </span>
+
+          <br>
+
+          <img src="{{ post.image1 }}" width="940">
+
+          <br>
+
+          <span style="color:yellow;width:800;padding:3px 3px;font-size:24px;">
+
+              "{{ post.leyenda }}"
+              <!--{{ post.Partido }}-->
+
+          </span>
+       </a>
+     </div>
+
+   {% endfor %}
+
+</div>
+
+<br>
+
+<p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
+  TAMBIÉN TE PUEDE INTERESAR
+</p>
+
+<br>
+
+<style>
+  .franja-horizontal {
+    width: 1400px;
+    height: 100%;
+    background: transparent;
+    display: inline-block;
+    padding: 0px;
+  }
+</style>
+
+<div class="franja-horizontal" style="display:inline-block;">
+
+    {% for post in site.posts limit:12 %}
+
+
+
+      <div class="franja-ultimo-partido">
+
+        <a href="{{ post.url }}">
+          <span style="color:yellow;padding:2px 2px;font-weight:900;font-size:20px;">
+            {{ post.title }}
+          </span>
+
+          <br>
+
+        <!--  <span style="color:red;padding:2px 2px;font-weight:900;font-size:16px;">
+            {{ post.duracion }}
+          </span>
+
+          <br> -->
+
+          <img src="{{ post.image1 }}">
+
+          <br>
+
+        <!--  <span style="color:yellow;width:800;padding:3px 3px;font-size:24px;">
+
+              "{{ post.leyenda }}"
+              <!--{{ post.Partido }}-->
+
+        <!--  </span>  -->
+       </a>
+     </div>
+
+   {% endfor %}
 
   </div>
-</li>

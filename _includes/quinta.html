@@ -76,20 +76,21 @@
      <style>
        .costado {
          width: 300px;
-         background: #000;
+         background: transparent;
          color: yellow;
          float: right;
-         padding: 20px;
+         padding-right:20px;
+         padding-bottom: 45px;
        }
      </style>
      {% for post in site.categories.Audicion-Partidaria limit: 1 %}
-     <a href="{{ post.url }}">
+     <a href="{{ post.url }}" style="margin-bottom:40px;">
        <span style="font-weight:900;font-size:20px;">Fútbol A Lo Peñarol</span><br>
        <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
          Audición Partidaria
        </span>
        <img src="{{ post.image1}}">
-       <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+       <span style="color:#c1bfbe;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
          {{ post.date | date_to_string }}
        </span>
        <br>
@@ -97,7 +98,8 @@
      {% endfor %}
 
     <br>
-
+  </div>
+  <div class="costado">
      {% for post in site.categories.Informe-Sport limit: 1 %}
      <a href="{{ post.url }}">
        <span style="font-weight:900;font-size:20px;">Informe de Peñarol</span><br>
@@ -105,13 +107,31 @@
          Sport 890 - Deportiva
        </span>
        <img src="{{ post.image1}}">
-       <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+       <span style="color:#c1bfbe;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
          {{ post.date | date_to_string }}
        </span>
        <br>
     </a>
      {% endfor %}
    </div>
+
+   <br>
+
+   <div class="costado">
+      {% for post in site.categories.Informe-1010AM limit: 1 %}
+      <a href="{{ post.url }}">
+        <span style="font-weight:900;font-size:20px;">Informe de Peñarol</span><br>
+        <span style="color:red;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+          1010 AM - Deportiva
+        </span>
+        <img src="{{ post.image1}}">
+        <span style="color:#c1bfbe;width:940;padding:2px 2px;font-weight:900;font-size:16px;">
+          {{ post.date | date_to_string }}
+        </span>
+        <br>
+     </a>
+      {% endfor %}
+    </div>
 
    <br>
 
@@ -203,7 +223,7 @@
 
 <div class="franja-horizontal" style="display:inline-block;background:transparent;">
 
-    {% for post in site.categories.Bingo limit:6 %}
+    {% for post in site.categories.Bingo limit:8 %}
 
 
 
@@ -237,7 +257,7 @@
 
    {% endfor %}
 
-  </div>
+</div>
 
   <br>
 
@@ -253,7 +273,7 @@
 
   <div class="franja-horizontal" style="display:inline-block;background:transparent;">
 
-      {% for post in site.categories.Bongo limit:6 %}
+      {% for post in site.categories.Bongo limit:8 %}
 
 
 
@@ -292,7 +312,7 @@
     <br>
 
     <p style="color:#3a3632;background:#eaf804;width:1440;padding:10px;font-weight:900;font-size:39px;">
-      TAMBIÉN TE PODRÍA INTERESAR
+      TAMBIÉN TE PUEDE INTERESAR
     </p>
 
     <br>

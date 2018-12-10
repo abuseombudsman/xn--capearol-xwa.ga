@@ -504,3 +504,21 @@ img.image {
     text-transform: uppercase;
     font-weight: 400;
 }
+
+.franja-horizontal {
+	width: 1400px;
+	height: 100%;
+	background: transparent;
+	display: inline-block;
+	padding: 0px;
+}
+
+.franja-ultimo-partido {
+	width: 300px;
+	background: transparent;
+	height: 350px;
+	padding: 10px;
+	float: left;
+	display: inline;
+
+}
