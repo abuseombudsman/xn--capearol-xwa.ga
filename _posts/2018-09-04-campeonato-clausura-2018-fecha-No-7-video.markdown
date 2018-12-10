@@ -10,7 +10,7 @@ comments: true
 campeonato: "Clausura 2018"
 fecha: 07
 partido: "CA Peñarol vs CA Cerro"
-categories: Fútbol 2018 Uruguayo Clausura Videos Partidos-Completos
+categories: Fútbol 2018 Uruguayo Clausura Videos
 image1: https://i.imgur.com/hNMrLRj.jpg
 date: 2018-09-04 21:00:00 +01:00:00
 ---
