@@ -10,7 +10,7 @@ comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
-categories: Futbol 2018 Peniarol Informe Videos
+categories: Futbol 2018 Peniarol Informe Videos Informe-1010AM
 image1: https://i.imgur.com/zQpUkho.jpg
 Crónica: false
 Entrevista: false
