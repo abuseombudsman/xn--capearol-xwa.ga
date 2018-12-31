@@ -1,12 +1,12 @@
 ---
-layout: entrada
+layout: post
 title: "Peñarol 2019: Raúl Salazar es el nuevo técnico de tercera división"
 name: 2018-12-31-salazar-DT-tercera.markdown
 keywords: "Fútbol, 2019, Peñarol, Entrevista, Video, Raúl Salazar"
 description: "Entrevista al nuevo DT de tercera división de Peñarol: Raúl Salazar"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
-comments: true
+fbcomments: true
 Campeonato: ""
 Fecha: ""
 Partido: ""
@@ -24,7 +24,7 @@ Video: true
 date: 2018-12-31 00:30:00 +01:00:00
 ---
 
-<span style="color:red;font-weight:900">Entrevista a Rodolfo Catino (vice-presidente de Peñarol)</span><br>
+<span style="color:red;font-weight:900">Entrevista a Raúl Salazar</span><br>
 <span>Duración: {{ page.duracion }}</span><br>
 
 Raúl Salazar fue confirmado como técnico de tercera división en Peñarol. El técnico proviene de las juveniles de Danubio y un paso por el Racing Club. Se planea una reunión en breve con el Memo López para coordinar el trabajo del técnico con la tercera división.
