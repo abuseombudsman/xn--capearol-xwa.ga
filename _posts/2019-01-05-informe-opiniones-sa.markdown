@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: entrada
 title: "Peñarol 2019: Erazo cerró su pase a Peñarol y se integraría al plantel en Miami"
 name: 2019-01-05-informe-opiniones-sa.markdown
 keywords: "Fútbol, 2019, Peñarol, Informe, Opiniones SA, Video, Transferencias, Pases, Pretemporada 2019, Erazo"
 description: "Erazo es jugador de Peñarol, según el programa Opiniones SA de la 890, el zaguero se estaría integrando a los entrenamientos de Peñarol en Miami en los próximos días, cuenta con un importante palmarés habiendo jugado en varios cuadros brasileros"
 author: CA Peñarol
 gosne: "Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl"
-fbcomments: true
+comments: true
 Campeonato: ""
 Fecha:
 Partido: ""
