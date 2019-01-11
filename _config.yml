@@ -29,17 +29,17 @@ markdown:           kramdown
 # destination:        ./_site
 port:               9010
 baseurl:            "" # the subpath of your site, e.g. /blog
-url:                "http://xn--pearol-xwa.ga" # the base hostname & protocol for your site, e.g. http://example.com
+url:                "https://xn--pearol-xwa.ga" # the base hostname & protocol for your site, e.g. http://example.com
 # encoding:           UTF-8
 
 
 # Social
-title:              Sitio No Oficial del Club Atlético Peñarol
+title:              peñarol.ga
 email:              abuse.ombudsman@gmail.com
-description:        "Club Atlético Peñarol: club de fútbol uruguayo. Pensamos que
+description:        "Club Atlético Peñarol es del Pueblo, pensamos que
                     la democratización de la Institución pasa por que la Popular
                     tome su gobierno."
-twitter_username:   AbuseOmbudsman
+twitter_username:   apeniarol
 github_username:    abuseombudsman
 
 # Build settings
