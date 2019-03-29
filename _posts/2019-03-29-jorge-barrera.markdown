@@ -5,7 +5,7 @@ name: 2019-03-29-jorge-barrera.markdown
 keywords: "Fútbol, Apertura 2019, Peñarol, Entrevista, Video, Jorge Barrera"
 description: "Además de tenerle confianza al técnico Diego López para revertir en el Apertura, Jorge dice que es realista cuando piensa que Peñarol puede dar una sorpresa en Maracaná"
 author: CA peñarol
-gosne: "<img src="https://i.imgur.com/kle4hEU.jpg" width="50px">"
+gosne: https://i.imgur.com/kle4hEU.jpg
 comments: true
 Campeonato: "Apertura 2019"
 Fecha: "7"
@@ -26,7 +26,7 @@ Jorge también dice que él es realista cuando ve chances de sorprender a Flamen
 
 <br>
 
-El Ferroviario Sudamericano *** {{ post.gosne }} *** Grêmio
+El Ferroviario Sudamericano *** <img src="{{ post.gosne }}" width="50px"> *** Grêmio
 
 <br>
 
