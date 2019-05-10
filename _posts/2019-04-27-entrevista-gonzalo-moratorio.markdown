@@ -1,5 +1,5 @@
 ---
-layout: entrada
+layout: default
 title: "Libertadores 2019, San José 3 - 1 Peñarol, hubieron 5 o 6 futbolistas con vómitos"
 name: 2019-04-27-entrevista-gonzalo-moratorio.markdown
 keywords: "Fútbol, Libertadores 2019, Peñarol, Entrevista, Video, Gonzalo Moratorio"
