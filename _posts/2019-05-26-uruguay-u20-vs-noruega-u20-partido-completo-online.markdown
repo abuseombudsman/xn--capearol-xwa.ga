@@ -23,7 +23,7 @@ Partido completo online por el Mundial Sub 20 Polonia 2019, Grupo C Fecha Nr 1, 
 
 <br>
 
-<center><iframe width="560" height="315" src="//ok.ru/videoembed/1270224784051" frameborder="0" allow="autoplay" allowfullscreen></iframe></center>
+<center><iframe src="//ok.ru/videoembed/1270224784051" frameborder="0" allow="autoplay" allowfullscreen></iframe></center>
 
 <br>
 
