@@ -7,14 +7,14 @@ description: "Partido completo online por el Mundial Sub 20 Polonia 2019, Grupo 
 author: CA peñarol
 gosne: Grêmio[1_Matriarcado|1_Patriarcado]:Conviven dentro de Êl(CA Peñarol)
 comments: true
-Campeonato: "Mundial Sub 20 Polonia 2019"
+Campeonato: "Mundial Sub-20 Polonia 2019"
 Fecha: "Grupo C - Fecha Nr 1"
 Partido: "Uruguay U20 vs Noruega U20"
 category: partido-completo
 categoria: partido-completo
 duracion: "01:38:56 horas"
 image1: https://i.imgur.com/wky1GXX.jpg
-image3:
+link: http://bit.ly/2JH8vPI
 date: 2019-05-26 18:45:00 +02:00:00
 Video: true
 ---
