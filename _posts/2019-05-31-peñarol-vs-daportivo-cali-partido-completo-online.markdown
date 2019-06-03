@@ -1,5 +1,5 @@
 ---
-layout: entrada
+layout: default
 title: "Sudamericana 2019: Peñarol vs Deportivo Cali - Partido Completo Online"
 name: 2019-05-31-peñarol-vs-daportivo-cali-partido-completo-online.markdown
 keywords: "Fútbol, Peñarol, Sudamericana 2019, Partido Completo Online, Peñarol vs Deportivo Cali, Video"
